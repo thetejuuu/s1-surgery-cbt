@@ -1,0 +1,138 @@
+[
+  {
+    "id": "TH-001",
+    "topic": "Perioperative care",
+    "prompt": "Q1a. 4 indications of prophylactic antibiotic.\n\nb. Briefly discuss prophylactic antibiotic use in surgery.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q1",
+    "status": "Original prompt; transcription lightly normalised"
+  },
+  {
+    "id": "TH-002",
+    "topic": "Gastrointestinal surgery",
+    "prompt": "What is the management of a 47-year-old woman presenting with intestinal obstruction due to postoperative adhesion?",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q2",
+    "status": "Original prompt; transcription lightly normalised"
+  },
+  {
+    "id": "TH-003",
+    "topic": "Fluid and electrolytes",
+    "prompt": "A 36-year-old banker presented with body weakness, nausea and vomiting after an exploratory laparotomy. His electrolytes are as follows: K: 2.5 mmol/L, Na: 135 mmol/L, HCO₃: 20 mmol/L.\n\na. What is the imbalance (diagnosis)?\nb. Mention 2 other symptoms.\nc. Mention 2 signs you will elicit.\nd. Mention 2 precautions you will take before or during correcting the imbalance.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q3",
+    "status": "Original prompt; units/spacing normalised"
+  },
+  {
+    "id": "TH-004",
+    "topic": "Hernias",
+    "prompt": "a. What is hernia?\n\nb. How will a groin hernia present?\n\nc. Surgical procedures to correct any groin hernia.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q4",
+    "status": "Original prompt"
+  },
+  {
+    "id": "TH-005",
+    "topic": "Urology",
+    "prompt": "Outline your method of investigating a 56-year-old farmer who presented with difficulty in passing urine of 6 months' duration and haematuria of one month's duration.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q5",
+    "status": "Original prompt; transcription lightly normalised"
+  },
+  {
+    "id": "TH-006",
+    "topic": "Paediatric surgery",
+    "prompt": "a. Causes of abdominal masses in children.\n\nb. Three investigations of abdominal masses.\n\nc. Three features of malignancy.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q6",
+    "status": "Original prompt"
+  },
+  {
+    "id": "TH-007",
+    "topic": "Perioperative care",
+    "prompt": "A 45-year-old patient is being prepared for a major elective surgery. List 10 measures you will take perioperatively (pre-, intra- and post-operatively) to avoid the metabolic response to injury.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q1",
+    "status": "Original prompt; transcription lightly normalised"
+  },
+  {
+    "id": "TH-008",
+    "topic": "Appendix",
+    "prompt": "Case scenario of acute appendicitis:\n\na. What is the diagnosis?\nb. Prescribe maintenance fluid.\nc. State likely complications if left untreated.\nd. Name two types of incisions used to treat it.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q2",
+    "status": "Original prompt; subparts formatted"
+  },
+  {
+    "id": "TH-009",
+    "topic": "Wound management",
+    "prompt": "Define wound.\n\nList the stages of wound healing.\n\nList four complications of wound healing after a breast lump excision.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q3",
+    "status": "Original prompt; line breaks normalised"
+  },
+  {
+    "id": "TH-010",
+    "topic": "Colorectal and anorectal",
+    "prompt": "Define fissure.\n\nb. Describe the fissure triad.\nc. How will you counsel a patient with anal fissure using a non-surgical approach?\nd. State two treatments.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q4",
+    "status": "Original prompt; subparts formatted"
+  },
+  {
+    "id": "TH-011",
+    "topic": "Urology",
+    "prompt": "a. Post-inflammatory urethral stricture.\nb. List four other urinary bladder pathological changes that could occur.\nc. State two treatments.\nd. List four other causes of bladder outlet obstruction.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q5",
+    "status": "Original prompt; opening instruction fragmentary"
+  },
+  {
+    "id": "TH-012",
+    "topic": "Gastrointestinal surgery",
+    "prompt": "Define typhoid intestinal perforation.\n\nList two [source transcription reads “sanctuary”; wording unclear].\n\nList four intraoperative findings.\n\nList four risk factors.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q6",
+    "status": "Original prompt; one sub-question is unclear in source"
+  },
+  {
+    "id": "TH-013",
+    "topic": "Thoracic surgery",
+    "prompt": "Outline the steps of tube thoracostomy, including the relevant anatomical site, incision, safe entry into the pleural cavity and connection to an underwater-seal drainage system.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Unnumbered source prompt: tube thoracostomy",
+    "status": "Adapted prompt based on source fragments"
+  },
+  {
+    "id": "TH-014",
+    "topic": "Hepatobiliary and pancreatic",
+    "prompt": "Describe the dual blood supply of the liver and outline the functional segmental anatomy of the liver.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Unnumbered source prompts: liver blood supply and Couinaud segments",
+    "status": "Adapted prompt based on source fragments"
+  },
+  {
+    "id": "TH-015",
+    "topic": "Trauma and emergencies",
+    "prompt": "Classify haemorrhagic shock according to ATLS (Classes I–IV) and describe the expected clinical features in each class.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Unnumbered source prompt: ATLS staging of haemorrhage",
+    "status": "Adapted prompt based on source fragment"
+  },
+  {
+    "id": "TH-016",
+    "topic": "Urology",
+    "prompt": "Describe the types of traumatic bladder injury and outline the investigations and initial management of suspected bladder rupture.",
+    "source": "S1 compiled PQ 2021-1.doc; S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Unnumbered 2021 prompt; 2025 MCQ Q23",
+    "status": "Adapted prompt based on source fragments"
+  },
+  {
+    "id": "TH-017",
+    "topic": "Endocrine and head & neck",
+    "prompt": "A patient develops stridor and respiratory distress shortly after thyroidectomy, with a swollen, bleeding wound. State the immediate management and explain the anatomical basis for the airway emergency.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "2023 Q28/Q32; unnumbered 2021 prompt",
+    "status": "Adapted prompt; repeated source scenario"
+  }
+]

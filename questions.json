@@ -1,26 +1,1184 @@
 [
-{"id":"S1-001","topic":"Wound management","subtopic":"Wound healing","question":"Which of the following is NOT an outcome of wound healing?","options":["Regeneration","Repair","Scar formation","Metaplasia"],"answer":3,"explanation":"Wound healing occurs through regeneration and/or repair, commonly with scar formation. Metaplasia is an adaptive change, not an outcome of wound healing.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Q3","status":"Adapted"},
-{"id":"S1-002","topic":"Gastrointestinal surgery","subtopic":"Upper GI bleeding","question":"Upper gastrointestinal haemorrhage is commonly classified into which two broad groups?","options":["Arterial and venous","Variceal and non-variceal","Acute and chronic","Mucosal and transmural"],"answer":1,"explanation":"The practical clinical classification is variceal versus non-variceal bleeding. This distinction guides risk assessment and management.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Q4","status":"Adapted"},
-{"id":"S1-003","topic":"Surgical anatomy","subtopic":"Coeliac trunk","question":"Which branch of the coeliac trunk supplies the lesser curvature of the stomach proximally?","options":["Left gastric artery","Splenic artery","Common hepatic artery","Superior mesenteric artery"],"answer":0,"explanation":"The left gastric artery runs along the lesser curvature and anastomoses with the right gastric artery.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Q7","status":"Adapted"},
-{"id":"S1-004","topic":"Urology","subtopic":"Testicular torsion","question":"What is the initial vascular event in the pathophysiology of spermatic cord torsion?","options":["Arterial thrombosis","Venous obstruction","Lymphatic obstruction","Direct testicular arterial rupture"],"answer":1,"explanation":"Twisting first compromises low-pressure venous drainage, causing congestion and oedema; arterial inflow may subsequently be compromised, producing ischaemia.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Q9","status":"Adapted"},
-{"id":"S1-005","topic":"Urology","subtopic":"Prostate cancer","question":"Which zone of the prostate is the commonest site of prostatic adenocarcinoma?","options":["Transition zone","Central zone","Peripheral zone","Anterior fibromuscular stroma"],"answer":2,"explanation":"Most prostate adenocarcinomas arise in the peripheral zone, often posteriorly, where they may be detected on digital rectal examination.","source":"S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc","sourceQuestion":"Combined source item","status":"Adapted"},
-{"id":"S1-006","topic":"Endocrine and head & neck","subtopic":"Thyroid surgery","question":"The recurrent laryngeal nerve is closely related to which artery near the thyroid gland?","options":["Superior thyroid artery","Inferior thyroid artery","Facial artery","Lingual artery"],"answer":1,"explanation":"The recurrent laryngeal nerve has a variable relationship to the inferior thyroid artery. It must be identified and protected during thyroidectomy.","source":"S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc","sourceQuestion":"Combined source item","status":"Adapted"},
-{"id":"S1-007","topic":"Colorectal and anorectal","subtopic":"Anal fissure","question":"Where is a typical primary anal fissure most commonly located?","options":["Anterior midline","Posterior midline","Right lateral wall","Left lateral wall"],"answer":1,"explanation":"A typical primary fissure is usually in the posterior midline. A lateral or multiple fissure should prompt assessment for an underlying secondary cause.","source":"S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc","sourceQuestion":"Combined source item","status":"Adapted"},
-{"id":"S1-008","topic":"Colorectal and anorectal","subtopic":"Fistula-in-ano","question":"In the Parks classification, a fistula that passes through the internal and external sphincters is described as:","options":["Intersphincteric","Transsphincteric","Suprasphincteric","Extrasphincteric"],"answer":1,"explanation":"A transsphincteric fistula traverses both anal sphincters, enters the ischioanal fossa and reaches the skin.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Related source item; wording clarified","status":"Adapted"},
-{"id":"S1-009","topic":"Paediatric surgery","subtopic":"Hypospadias","question":"Why is routine neonatal circumcision contraindicated in a child with hypospadias?","options":["The foreskin may be needed for urethral reconstruction","Circumcision invariably causes renal failure","Hypospadias is caused by phimosis","Circumcision causes testicular torsion"],"answer":0,"explanation":"Preputial skin may be required as tissue for later reconstruction. Refer for paediatric urological assessment rather than routine circumcision.","source":"S1 COMPILATION (FIRST ROTATION).docx; S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Combined source item","status":"Adapted"},
-{"id":"S1-010","topic":"Perioperative care","subtopic":"Surgical drains","question":"A Redivac drain is best described as a:","options":["Open passive drain","Closed suction drain","T-tube biliary drain","Penrose drain"],"answer":1,"explanation":"A Redivac is a closed-system suction drain that uses negative pressure to evacuate fluid from a surgical site.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Source item; number not retained","status":"Adapted"},
-{"id":"S1-011","topic":"Wound management","subtopic":"Wound infection","question":"Pus associated with Pseudomonas aeruginosa infection may characteristically appear:","options":["Blue-green","Bright orange","Black and tarry","Milky white"],"answer":0,"explanation":"Pseudomonas may produce blue-green pigments. Colour alone is not diagnostic; microbiological assessment is required.","source":"S1 COMPILATION (FIRST ROTATION).docx","sourceQuestion":"Source item; number not retained","status":"Adapted"},
-{"id":"S1-012","topic":"Hepatobiliary and pancreatic","subtopic":"Liver anatomy","question":"How many functional segments are described in the Couinaud classification of the liver?","options":["4","6","8","10"],"answer":2,"explanation":"The Couinaud system divides the liver into eight functionally independent segments, each with its own portal triad inflow and biliary drainage.","source":"S1 compiled PQ 2021-1.doc","sourceQuestion":"Source item; wording clarified","status":"Adapted"},
-{"id":"S1-013","topic":"Trauma and emergencies","subtopic":"ATLS primary survey","question":"What is the standard sequence of the ATLS primary survey?","options":["ABCDE","CABDE","ABDEC","ACBDE"],"answer":0,"explanation":"ABCDE: Airway with cervical spine protection, Breathing, Circulation with haemorrhage control, Disability, and Exposure/environmental control.","source":"S1 R2 2025.pdf; S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Combined source item","status":"Adapted"},
-{"id":"S1-014","topic":"Breast surgery","subtopic":"Clinical examination","question":"Which clinical finding in a breast lump is particularly concerning for malignancy?","options":["A smooth, freely mobile lump","Skin or nipple retraction","Bilateral symmetrical nodularity","Cyclical breast tenderness alone"],"answer":1,"explanation":"Skin tethering, dimpling or nipple retraction may result from involvement of Cooper ligaments or the ductal system and should raise suspicion.","source":"S1 R2 2025.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-015","topic":"Paediatric surgery","subtopic":"Hirschsprung disease","question":"A typical neonatal presentation of Hirschsprung disease is:","options":["Delayed passage of meconium","Early passage of frequent normal stools","Haematuria","Projectile non-bilious vomiting as the defining feature"],"answer":0,"explanation":"Failure to pass meconium within the expected period is classic. Distal aganglionosis causes functional obstruction, abdominal distension and often bilious vomiting.","source":"S1 R2 2025.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-016","topic":"Hernias","subtopic":"Inguinal hernia anatomy","question":"An indirect inguinal hernia enters the inguinal canal through the:","options":["Superficial inguinal ring","Deep inguinal ring","Femoral ring","Hesselbach triangle directly"],"answer":1,"explanation":"An indirect inguinal hernia enters through the deep ring, lateral to the inferior epigastric vessels, and may traverse the canal.","source":"Supplementary teaching question","sourceQuestion":"Not a verbatim past question","status":"Supplementary"},
-{"id":"S1-017","topic":"Gastrointestinal surgery","subtopic":"Intestinal obstruction","question":"The characteristic pain of uncomplicated mechanical intestinal obstruction is usually:","options":["Colicky and intermittent","Constant burning epigastric pain","Pleuritic chest pain","Painless progressive distension only"],"answer":0,"explanation":"Peristaltic contractions against an obstruction produce intermittent colicky pain. Continuous severe pain, peritonism or deterioration raises concern for strangulation or ischaemia.","source":"S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-018","topic":"Hepatobiliary and pancreatic","subtopic":"Obstructive jaundice","question":"Which combination is classically associated with obstructive jaundice?","options":["Dark urine and pale stools","Clear urine and black stools","Polyuria and red stools","Dark urine and green stools"],"answer":0,"explanation":"Conjugated bilirubin is water-soluble and appears in urine, making it dark. Reduced bile pigment reaching the bowel can make stools pale.","source":"S1 compiled PQ 2021-1.doc","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-019","topic":"Breast surgery","subtopic":"Breast cancer risk","question":"Which of the following is an established risk factor for breast cancer?","options":["A first-degree relative with breast cancer","Having had appendicectomy","Being left-handed","A history of uncomplicated ankle sprain"],"answer":0,"explanation":"A first-degree family history, particularly at a young age or with multiple affected relatives, increases risk. The magnitude depends on family history and inherited variants.","source":"S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc","sourceQuestion":"Combined source concept","status":"Adapted"},
-{"id":"S1-020","topic":"Paediatric surgery","subtopic":"Cystic hygroma","question":"A cystic hygroma classically may demonstrate which examination finding?","options":["Transillumination","A positive cough impulse","Pulsatility with an expansile character","A bruit in every case"],"answer":0,"explanation":"A cystic hygroma is a lymphatic malformation and may transilluminate because it contains fluid-filled cystic spaces. This is supportive, not definitive.","source":"S1 R2 2025.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-021","topic":"Trauma and emergencies","subtopic":"Chest trauma","question":"A patient with traumatic haemopneumothorax and respiratory compromise will generally require:","options":["Observation alone","Tube thoracostomy","Immediate oral antibiotics only","Needle aspiration of the abdomen"],"answer":1,"explanation":"Tube thoracostomy drains pleural air and blood and allows lung re-expansion. Resuscitation and assessment for ongoing bleeding are also essential.","source":"S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-022","topic":"Colorectal and anorectal","subtopic":"Anal canal malignancy","question":"The commonest histological type of carcinoma arising in the anal canal is generally:","options":["Squamous cell carcinoma","Hepatocellular carcinoma","Osteosarcoma","Renal cell carcinoma"],"answer":0,"explanation":"Squamous cell carcinoma is the predominant anal canal malignancy. Distinguish anal canal from anal margin and rectum.","source":"S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-023","topic":"Hepatobiliary and pancreatic","subtopic":"Liver blood supply","question":"The liver has a dual blood supply from the:","options":["Portal vein and hepatic artery","Splenic vein and renal artery","Inferior vena cava and aorta","Superior mesenteric artery and hepatic veins"],"answer":0,"explanation":"The portal vein provides most hepatic blood flow and nutrient-rich blood from the gut; the hepatic artery supplies oxygenated arterial blood. Hepatic veins drain to the IVC.","source":"S1 compiled PQ 2021-1.doc","sourceQuestion":"Source concept; wording adapted","status":"Adapted"},
-{"id":"S1-024","topic":"Urology","subtopic":"Urethral injury","question":"After pelvic trauma, a patient has blood at the urethral meatus and suspected urethral disruption. What should be avoided initially?","options":["Assessment of haemodynamic status","Blind urethral catheterisation","Examination of the perineum","Appropriate imaging and urological assessment"],"answer":1,"explanation":"When urethral injury is suspected, do not pass a urethral catheter blindly. Retrograde urethrography and specialist assessment are generally required in a stable patient.","source":"S1_1st Rotation Question Compilation MBBS'25.pdf","sourceQuestion":"Source concept; wording adapted","status":"Adapted"}
+  {
+    "id": "S1-001",
+    "topic": "Wound management",
+    "subtopic": "Wound healing",
+    "question": "Which of the following is NOT an outcome of wound healing?",
+    "options": [
+      "Regeneration",
+      "Repair",
+      "Scar formation",
+      "Metaplasia"
+    ],
+    "answer": 3,
+    "explanation": "Wound healing occurs through regeneration and/or repair, commonly with scar formation. Metaplasia is an adaptive change, not an outcome of wound healing.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q3",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-002",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Upper GI bleeding",
+    "question": "Upper gastrointestinal haemorrhage is commonly classified into which two broad groups?",
+    "options": [
+      "Arterial and venous",
+      "Variceal and non-variceal",
+      "Acute and chronic",
+      "Mucosal and transmural"
+    ],
+    "answer": 1,
+    "explanation": "The practical clinical classification is variceal versus non-variceal bleeding. This distinction guides risk assessment and management.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-003",
+    "topic": "Surgical anatomy",
+    "subtopic": "Coeliac trunk",
+    "question": "Which branch of the coeliac trunk supplies the lesser curvature of the stomach proximally?",
+    "options": [
+      "Left gastric artery",
+      "Splenic artery",
+      "Common hepatic artery",
+      "Superior mesenteric artery"
+    ],
+    "answer": 0,
+    "explanation": "The left gastric artery runs along the lesser curvature and anastomoses with the right gastric artery.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q7",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-004",
+    "topic": "Urology",
+    "subtopic": "Testicular torsion",
+    "question": "What is the initial vascular event in the pathophysiology of spermatic cord torsion?",
+    "options": [
+      "Arterial thrombosis",
+      "Venous obstruction",
+      "Lymphatic obstruction",
+      "Direct testicular arterial rupture"
+    ],
+    "answer": 1,
+    "explanation": "Twisting first compromises low-pressure venous drainage, causing congestion and oedema; arterial inflow may subsequently be compromised, producing ischaemia.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q9",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-005",
+    "topic": "Urology",
+    "subtopic": "Prostate cancer",
+    "question": "Which zone of the prostate is the commonest site of prostatic adenocarcinoma?",
+    "options": [
+      "Transition zone",
+      "Central zone",
+      "Peripheral zone",
+      "Anterior fibromuscular stroma"
+    ],
+    "answer": 2,
+    "explanation": "Most prostate adenocarcinomas arise in the peripheral zone, often posteriorly, where they may be detected on digital rectal examination.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Combined source item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-006",
+    "topic": "Endocrine and head & neck",
+    "subtopic": "Thyroid surgery",
+    "question": "The recurrent laryngeal nerve is closely related to which artery near the thyroid gland?",
+    "options": [
+      "Superior thyroid artery",
+      "Inferior thyroid artery",
+      "Facial artery",
+      "Lingual artery"
+    ],
+    "answer": 1,
+    "explanation": "The recurrent laryngeal nerve has a variable relationship to the inferior thyroid artery. It must be identified and protected during thyroidectomy.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Combined source item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-007",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Anal fissure",
+    "question": "Where is a typical primary anal fissure most commonly located?",
+    "options": [
+      "Anterior midline",
+      "Posterior midline",
+      "Right lateral wall",
+      "Left lateral wall"
+    ],
+    "answer": 1,
+    "explanation": "A typical primary fissure is usually in the posterior midline. A lateral or multiple fissure should prompt assessment for an underlying secondary cause.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Combined source item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-008",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Fistula-in-ano",
+    "question": "In the Parks classification, a fistula that passes through the internal and external sphincters is described as:",
+    "options": [
+      "Intersphincteric",
+      "Transsphincteric",
+      "Suprasphincteric",
+      "Extrasphincteric"
+    ],
+    "answer": 1,
+    "explanation": "A transsphincteric fistula traverses both anal sphincters, enters the ischioanal fossa and reaches the skin.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Related source item; wording clarified",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-009",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hypospadias",
+    "question": "Why is routine neonatal circumcision contraindicated in a child with hypospadias?",
+    "options": [
+      "The foreskin may be needed for urethral reconstruction",
+      "Circumcision invariably causes renal failure",
+      "Hypospadias is caused by phimosis",
+      "Circumcision causes testicular torsion"
+    ],
+    "answer": 0,
+    "explanation": "Preputial skin may be required as tissue for later reconstruction. Refer for paediatric urological assessment rather than routine circumcision.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Combined source item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-010",
+    "topic": "Perioperative care",
+    "subtopic": "Surgical drains",
+    "question": "A Redivac drain is best described as a:",
+    "options": [
+      "Open passive drain",
+      "Closed suction drain",
+      "T-tube biliary drain",
+      "Penrose drain"
+    ],
+    "answer": 1,
+    "explanation": "A Redivac is a closed-system suction drain that uses negative pressure to evacuate fluid from a surgical site.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Source item; number not retained",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-011",
+    "topic": "Wound management",
+    "subtopic": "Wound infection",
+    "question": "Pus associated with Pseudomonas aeruginosa infection may characteristically appear:",
+    "options": [
+      "Blue-green",
+      "Bright orange",
+      "Black and tarry",
+      "Milky white"
+    ],
+    "answer": 0,
+    "explanation": "Pseudomonas may produce blue-green pigments. Colour alone is not diagnostic; microbiological assessment is required.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Source item; number not retained",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-012",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Liver anatomy",
+    "question": "How many functional segments are described in the Couinaud classification of the liver?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "The Couinaud system divides the liver into eight functionally independent segments, each with its own portal triad inflow and biliary drainage.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source item; wording clarified",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-013",
+    "topic": "Trauma and emergencies",
+    "subtopic": "ATLS primary survey",
+    "question": "What is the standard sequence of the ATLS primary survey?",
+    "options": [
+      "ABCDE",
+      "CABDE",
+      "ABDEC",
+      "ACBDE"
+    ],
+    "answer": 0,
+    "explanation": "ABCDE: Airway with cervical spine protection, Breathing, Circulation with haemorrhage control, Disability, and Exposure/environmental control.",
+    "source": "S1 R2 2025.pdf; S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Combined source item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-014",
+    "topic": "Breast surgery",
+    "subtopic": "Clinical examination",
+    "question": "Which clinical finding in a breast lump is particularly concerning for malignancy?",
+    "options": [
+      "A smooth, freely mobile lump",
+      "Skin or nipple retraction",
+      "Bilateral symmetrical nodularity",
+      "Cyclical breast tenderness alone"
+    ],
+    "answer": 1,
+    "explanation": "Skin tethering, dimpling or nipple retraction may result from involvement of Cooper ligaments or the ductal system and should raise suspicion.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-015",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hirschsprung disease",
+    "question": "A typical neonatal presentation of Hirschsprung disease is:",
+    "options": [
+      "Delayed passage of meconium",
+      "Early passage of frequent normal stools",
+      "Haematuria",
+      "Projectile non-bilious vomiting as the defining feature"
+    ],
+    "answer": 0,
+    "explanation": "Failure to pass meconium within the expected period is classic. Distal aganglionosis causes functional obstruction, abdominal distension and often bilious vomiting.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-016",
+    "topic": "Hernias",
+    "subtopic": "Inguinal hernia anatomy",
+    "question": "An indirect inguinal hernia enters the inguinal canal through the:",
+    "options": [
+      "Superficial inguinal ring",
+      "Deep inguinal ring",
+      "Femoral ring",
+      "Hesselbach triangle directly"
+    ],
+    "answer": 1,
+    "explanation": "An indirect inguinal hernia enters through the deep ring, lateral to the inferior epigastric vessels, and may traverse the canal.",
+    "source": "Supplementary teaching question",
+    "sourceQuestion": "Not a verbatim past question",
+    "status": "Supplementary"
+  },
+  {
+    "id": "S1-017",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Intestinal obstruction",
+    "question": "The characteristic pain of uncomplicated mechanical intestinal obstruction is usually:",
+    "options": [
+      "Colicky and intermittent",
+      "Constant burning epigastric pain",
+      "Pleuritic chest pain",
+      "Painless progressive distension only"
+    ],
+    "answer": 0,
+    "explanation": "Peristaltic contractions against an obstruction produce intermittent colicky pain. Continuous severe pain, peritonism or deterioration raises concern for strangulation or ischaemia.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-018",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Obstructive jaundice",
+    "question": "Which combination is classically associated with obstructive jaundice?",
+    "options": [
+      "Dark urine and pale stools",
+      "Clear urine and black stools",
+      "Polyuria and red stools",
+      "Dark urine and green stools"
+    ],
+    "answer": 0,
+    "explanation": "Conjugated bilirubin is water-soluble and appears in urine, making it dark. Reduced bile pigment reaching the bowel can make stools pale.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-019",
+    "topic": "Breast surgery",
+    "subtopic": "Breast cancer risk",
+    "question": "Which of the following is an established risk factor for breast cancer?",
+    "options": [
+      "A first-degree relative with breast cancer",
+      "Having had appendicectomy",
+      "Being left-handed",
+      "A history of uncomplicated ankle sprain"
+    ],
+    "answer": 0,
+    "explanation": "A first-degree family history, particularly at a young age or with multiple affected relatives, increases risk. The magnitude depends on family history and inherited variants.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Combined source concept",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-020",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cystic hygroma",
+    "question": "A cystic hygroma classically may demonstrate which examination finding?",
+    "options": [
+      "Transillumination",
+      "A positive cough impulse",
+      "Pulsatility with an expansile character",
+      "A bruit in every case"
+    ],
+    "answer": 0,
+    "explanation": "A cystic hygroma is a lymphatic malformation and may transilluminate because it contains fluid-filled cystic spaces. This is supportive, not definitive.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-021",
+    "topic": "Trauma and emergencies",
+    "subtopic": "Chest trauma",
+    "question": "A patient with traumatic haemopneumothorax and respiratory compromise will generally require:",
+    "options": [
+      "Observation alone",
+      "Tube thoracostomy",
+      "Immediate oral antibiotics only",
+      "Needle aspiration of the abdomen"
+    ],
+    "answer": 1,
+    "explanation": "Tube thoracostomy drains pleural air and blood and allows lung re-expansion. Resuscitation and assessment for ongoing bleeding are also essential.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-022",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Anal canal malignancy",
+    "question": "The commonest histological type of carcinoma arising in the anal canal is generally:",
+    "options": [
+      "Squamous cell carcinoma",
+      "Hepatocellular carcinoma",
+      "Osteosarcoma",
+      "Renal cell carcinoma"
+    ],
+    "answer": 0,
+    "explanation": "Squamous cell carcinoma is the predominant anal canal malignancy. Distinguish anal canal from anal margin and rectum.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-023",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Liver blood supply",
+    "question": "The liver has a dual blood supply from the:",
+    "options": [
+      "Portal vein and hepatic artery",
+      "Splenic vein and renal artery",
+      "Inferior vena cava and aorta",
+      "Superior mesenteric artery and hepatic veins"
+    ],
+    "answer": 0,
+    "explanation": "The portal vein provides most hepatic blood flow and nutrient-rich blood from the gut; the hepatic artery supplies oxygenated arterial blood. Hepatic veins drain to the IVC.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-024",
+    "topic": "Urology",
+    "subtopic": "Urethral injury",
+    "question": "After pelvic trauma, a patient has blood at the urethral meatus and suspected urethral disruption. What should be avoided initially?",
+    "options": [
+      "Assessment of haemodynamic status",
+      "Blind urethral catheterisation",
+      "Examination of the perineum",
+      "Appropriate imaging and urological assessment"
+    ],
+    "answer": 1,
+    "explanation": "When urethral injury is suspected, do not pass a urethral catheter blindly. Retrograde urethrography and specialist assessment are generally required in a stable patient.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Source concept; wording adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-025",
+    "topic": "Surgical principles",
+    "subtopic": "SIRS",
+    "question": "Which of the following is NOT a standard parameter used in the systemic inflammatory response syndrome (SIRS) criteria?",
+    "options": [
+      "Temperature",
+      "Heart rate",
+      "Respiratory rate",
+      "White blood cell count",
+      "Partial pressure of oxygen"
+    ],
+    "answer": 4,
+    "explanation": "Traditional SIRS criteria use temperature, heart rate, respiratory rate/PaCO₂, and white blood cell count. PaO₂ is not one of the standard four criteria.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q5",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-026",
+    "topic": "Appendix",
+    "subtopic": "Acute appendicitis",
+    "question": "Which finding is LEAST typical of uncomplicated acute appendicitis?",
+    "options": [
+      "Right iliac fossa tenderness",
+      "Rebound tenderness",
+      "Low-grade fever",
+      "Jaundice",
+      "Anorexia"
+    ],
+    "answer": 3,
+    "explanation": "Jaundice is not a usual feature of uncomplicated appendicitis; if present, consider alternative diagnoses or complications.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q6",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-027",
+    "topic": "Endocrine and head & neck",
+    "subtopic": "Thyroid examination",
+    "question": "During examination of a patient with a thyroid swelling, which manoeuvre is most useful for assessing whether the swelling moves with swallowing?",
+    "options": [
+      "Ask the patient to protrude the tongue",
+      "Ask the patient to swallow",
+      "Ask the patient to clench the jaw",
+      "Ask the patient to shrug the shoulders",
+      "Ask the patient to hold the breath"
+    ],
+    "answer": 1,
+    "explanation": "A thyroid swelling typically moves upwards with deglutition because of its attachment to the larynx and trachea through the pretracheal fascia.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q16",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-028",
+    "topic": "Endocrine and head & neck",
+    "subtopic": "Thyroid examination",
+    "question": "A midline neck swelling that characteristically moves upwards when the patient protrudes the tongue is most suggestive of:",
+    "options": [
+      "Simple goitre",
+      "Thyroglossal duct cyst",
+      "Cervical lymphadenopathy",
+      "Carotid body tumour",
+      "Branchial cyst"
+    ],
+    "answer": 1,
+    "explanation": "A thyroglossal duct cyst is attached to the hyoid region and typically moves with tongue protrusion and swallowing.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q16; related neck examination concept",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-029",
+    "topic": "Urology",
+    "subtopic": "Renal trauma",
+    "question": "Which of the following is LEAST characteristic of renal injury after blunt trauma?",
+    "options": [
+      "Haematuria",
+      "Flank pain",
+      "Flank bruising",
+      "Urinary frequency",
+      "Flank mass"
+    ],
+    "answer": 3,
+    "explanation": "Haematuria and flank pain/bruising are recognised features. Frequency is not a characteristic presenting feature of renal trauma.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q9",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-030",
+    "topic": "Urology",
+    "subtopic": "Undescended testis",
+    "question": "Undescended testis is commonly associated with which congenital condition?",
+    "options": [
+      "Congenital inguinal hernia",
+      "Hypertrophic pyloric stenosis",
+      "Hirschsprung disease",
+      "Cleft palate",
+      "Meconium ileus"
+    ],
+    "answer": 0,
+    "explanation": "A patent processus vaginalis is frequently associated with cryptorchidism and predisposes to an indirect inguinal hernia.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q24/Q33",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-031",
+    "topic": "Urology",
+    "subtopic": "Catheterisation",
+    "question": "During male urethral catheterisation, after lubricating the urethra, the penis is generally held:",
+    "options": [
+      "Downwards at 45 degrees",
+      "Upwards to straighten the anterior urethra",
+      "Horizontally against the thigh",
+      "In the midline with no traction",
+      "Rotated laterally"
+    ],
+    "answer": 1,
+    "explanation": "The penis is gently elevated to approximately 60–90 degrees to reduce the curve of the anterior urethra during insertion. Never force a catheter against resistance.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q25/Q39; adapted to a complete, clinically standard item",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-032",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Sebaceous cyst",
+    "question": "Which clinical feature is particularly characteristic of an epidermoid (sebaceous) cyst?",
+    "options": [
+      "Transillumination",
+      "A central punctum",
+      "A palpable thrill",
+      "A bruit",
+      "Reducibility"
+    ],
+    "answer": 1,
+    "explanation": "A central punctum represents the blocked follicular opening and is a classic feature of an epidermoid cyst.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q36",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-033",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Hernia in children",
+    "question": "A 4-year-old child has a groin swelling that appears on standing or crying and disappears when lying down. The usual operation for an uncomplicated paediatric inguinal hernia is:",
+    "options": [
+      "Herniorrhaphy with mesh",
+      "Hernioplasty with mesh",
+      "Herniotomy",
+      "Femoral herniorrhaphy",
+      "Bowel resection"
+    ],
+    "answer": 2,
+    "explanation": "In children, the usual procedure is herniotomy: high ligation of the patent processus vaginalis. Routine mesh repair is not used for an uncomplicated paediatric indirect inguinal hernia.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-034",
+    "topic": "Urology",
+    "subtopic": "Open prostatectomy",
+    "question": "Which of the following is a recognised complication of open prostatectomy?",
+    "options": [
+      "Epididymo-orchitis",
+      "Acute appendicitis",
+      "Cleft palate",
+      "Hydrocephalus",
+      "Pyloric stenosis"
+    ],
+    "answer": 0,
+    "explanation": "Infective complications including epididymo-orchitis can occur. Other important complications include bleeding, urinary incontinence, bladder-neck contracture and retrograde ejaculation.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q32; option set adapted",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-035",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Biliary obstruction",
+    "question": "Which biochemical pattern is most consistent with extrahepatic obstructive jaundice?",
+    "options": [
+      "Predominantly unconjugated hyperbilirubinaemia with low ALP",
+      "Raised conjugated bilirubin with raised alkaline phosphatase and GGT",
+      "Isolated low serum amylase",
+      "Raised troponin with normal liver enzymes",
+      "Low bilirubin with raised creatinine only"
+    ],
+    "answer": 1,
+    "explanation": "Cholestasis typically produces conjugated hyperbilirubinaemia and disproportionate elevation of alkaline phosphatase and GGT.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q19",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-036",
+    "topic": "Urology",
+    "subtopic": "Bladder injury",
+    "question": "Which of the following is NOT a recognised type of traumatic bladder injury?",
+    "options": [
+      "Bladder contusion",
+      "Intraperitoneal rupture",
+      "Extraperitoneal rupture",
+      "Bladder diverticulum",
+      "Bladder rupture"
+    ],
+    "answer": 3,
+    "explanation": "Bladder contusion and intraperitoneal/extraperitoneal rupture are recognised injury patterns. A diverticulum is an outpouching of the bladder wall, not a traumatic injury type.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q23",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-037",
+    "topic": "Urology",
+    "subtopic": "Urethral injury",
+    "question": "The preferred initial urinary diversion in a patient with suspected complete traumatic urethral rupture is generally:",
+    "options": [
+      "Blind urethral catheterisation",
+      "Suprapubic urinary diversion",
+      "Immediate transurethral prostatectomy",
+      "Repeated forceful catheter attempts",
+      "Oral antibiotics alone"
+    ],
+    "answer": 1,
+    "explanation": "Avoid blind urethral catheterisation when urethral disruption is suspected. Retrograde urethrography and suprapubic diversion are commonly used depending on the clinical situation.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q29",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-038",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Colorectal cancer",
+    "question": "Which investigation provides direct visualisation of the colon and allows biopsy of a suspected colorectal cancer?",
+    "options": [
+      "Abdominal ultrasound",
+      "Plain abdominal radiograph",
+      "Colonoscopy with biopsy",
+      "Barium swallow",
+      "Intravenous urography"
+    ],
+    "answer": 2,
+    "explanation": "Colonoscopy allows visualisation of the colonic mucosa and tissue diagnosis by biopsy.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q34",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-039",
+    "topic": "Colorectal and anorectal",
+    "subtopic": "Benign colonic tumours",
+    "question": "Which of the following is LEAST likely to be a complication of a benign colonic tumour?",
+    "options": [
+      "Intestinal bleeding",
+      "Intestinal obstruction",
+      "Intussusception",
+      "Direct invasion into adjacent organs",
+      "Obstruction due to a large lesion"
+    ],
+    "answer": 3,
+    "explanation": "Benign lesions can bleed, obstruct or act as a lead point for intussusception. Direct invasion into adjacent structures suggests malignant behaviour.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q10",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-040",
+    "topic": "Hernias",
+    "subtopic": "Femoral hernia",
+    "question": "A femoral hernia passes through the femoral ring and lies:",
+    "options": [
+      "Lateral to the femoral artery",
+      "Medial to the femoral vein",
+      "Posterior to the sciatic nerve",
+      "Within the inguinal canal",
+      "Above the inguinal ligament"
+    ],
+    "answer": 1,
+    "explanation": "The femoral canal is medial to the femoral vein. The femoral ring is bounded by the inguinal ligament anteriorly, pectineal ligament posteriorly, lacunar ligament medially and femoral vein laterally.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q25; anatomy clarification",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-041",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Common bile duct anatomy",
+    "question": "The common hepatic duct is formed by the union of the:",
+    "options": [
+      "Cystic duct and common bile duct",
+      "Right and left hepatic ducts",
+      "Right hepatic duct and cystic duct",
+      "Pancreatic duct and cystic duct",
+      "Left hepatic duct and pancreatic duct"
+    ],
+    "answer": 1,
+    "explanation": "The right and left hepatic ducts unite at the porta hepatis to form the common hepatic duct. The cystic duct then joins it to form the common bile duct.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q7; original options were fragmentary",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-042",
+    "topic": "Trauma and emergencies",
+    "subtopic": "Burns",
+    "question": "The Rule of Nines used for estimating total body surface area burned in adults is attributed to:",
+    "options": [
+      "Wallace",
+      "Lund and Browder",
+      "Parkland",
+      "Brooke",
+      "Gustilo"
+    ],
+    "answer": 0,
+    "explanation": "Wallace's Rule of Nines is a rapid adult TBSA estimation method. The Lund–Browder chart is more accurate in children because body proportions vary with age.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q26",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-043",
+    "topic": "Trauma and emergencies",
+    "subtopic": "Paediatric burns",
+    "question": "Which chart is generally preferred for estimating burn surface area in children?",
+    "options": [
+      "Wallace Rule of Nines only",
+      "Lund–Browder chart",
+      "Glasgow Coma Scale",
+      "APGAR score",
+      "Ranson score"
+    ],
+    "answer": 1,
+    "explanation": "The Lund–Browder chart accounts for age-related differences in body surface area proportions and is preferred for children.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q50",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-044",
+    "topic": "Trauma and emergencies",
+    "subtopic": "HIV exposure",
+    "question": "The average risk of HIV transmission after a percutaneous needlestick injury involving HIV-infected blood is approximately:",
+    "options": [
+      "0.03%",
+      "0.3%",
+      "3%",
+      "10%",
+      "30%"
+    ],
+    "answer": 1,
+    "explanation": "The commonly cited average risk after percutaneous exposure is about 0.3%; risk varies with depth, visible blood and source viral load. Manage as an occupational exposure urgently.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q20",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-045",
+    "topic": "Wound management",
+    "subtopic": "Surgical site infection",
+    "question": "A common organism responsible for infection following a clean surgical procedure is:",
+    "options": [
+      "Staphylococcus aureus",
+      "Vibrio cholerae",
+      "Salmonella Typhi",
+      "Clostridium tetani",
+      "Entamoeba histolytica"
+    ],
+    "answer": 0,
+    "explanation": "Clean surgical site infections are commonly caused by skin flora, particularly Staphylococcus aureus and coagulase-negative staphylococci.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q6/Q14",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-046",
+    "topic": "Hernias",
+    "subtopic": "Hernia repair",
+    "question": "Which statement about the Shouldice operation for inguinal hernia is correct?",
+    "options": [
+      "It is a multilayer tissue repair of the posterior inguinal wall",
+      "It is a laparoscopic mesh repair",
+      "It repairs the femoral canal only",
+      "It involves removal of the testis",
+      "It is a paediatric herniotomy"
+    ],
+    "answer": 0,
+    "explanation": "Shouldice is a multilayered tissue repair of the posterior wall of the inguinal canal. The original compilation describes this as a multilayer imbricated repair.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-047",
+    "topic": "Hernias",
+    "subtopic": "Hernia repair",
+    "question": "The McVay repair is particularly associated with suturing the conjoint tendon to the:",
+    "options": [
+      "Inguinal ligament",
+      "Pectineal (Cooper's) ligament",
+      "Lacunar ligament alone",
+      "Femoral artery sheath",
+      "External oblique aponeurosis"
+    ],
+    "answer": 1,
+    "explanation": "The McVay repair approximates the transversus abdominis aponeurotic arch/conjoint tendon to Cooper's (pectineal) ligament and is useful in femoral hernia repair.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q4; wording corrected from corrupted source",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-048",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Small bowel obstruction",
+    "question": "In a resource-limited setting, which conventional plain radiographic views are classically used in evaluating suspected small bowel obstruction?",
+    "options": [
+      "Supine and erect abdominal radiographs",
+      "Lateral skull radiographs",
+      "PA chest alone",
+      "Pelvic inlet and outlet views",
+      "Barium swallow"
+    ],
+    "answer": 0,
+    "explanation": "The compilation specifically identifies erect and supine abdominal radiographs. CT is more sensitive and is often preferred where available to define the cause and complications.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q2/Q27",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-049",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Small bowel obstruction",
+    "question": "Which imaging modality is generally most accurate for identifying the cause and complications of small bowel obstruction in a stable adult when available?",
+    "options": [
+      "Plain abdominal radiograph",
+      "CT abdomen and pelvis",
+      "Barium swallow",
+      "Cystoscopy",
+      "Mammography"
+    ],
+    "answer": 1,
+    "explanation": "CT can identify the transition point, cause, closed-loop obstruction and signs of ischaemia. This supplements—not replaces—the source compilation's plain-film question.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Supplementary clarification to Q2/Q27",
+    "status": "Supplementary"
+  },
+  {
+    "id": "S1-050",
+    "topic": "Hepatobiliary and pancreatic",
+    "subtopic": "Obstructive jaundice",
+    "question": "Which of the following is a recognised complication of prolonged obstructive jaundice?",
+    "options": [
+      "Ascending cholangitis",
+      "Acute appendicitis",
+      "Testicular torsion",
+      "Cerebral aneurysm",
+      "Achalasia"
+    ],
+    "answer": 0,
+    "explanation": "Biliary stasis predisposes to ascending cholangitis. Prolonged cholestasis can also cause fat-soluble vitamin deficiency and coagulopathy; severe disease may contribute to renal dysfunction.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source prompt: complications of obstructive jaundice",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-051",
+    "topic": "Trauma and emergencies",
+    "subtopic": "Traumatic brain injury",
+    "question": "A Glasgow Coma Scale score of 8 or less is conventionally classified as:",
+    "options": [
+      "Mild traumatic brain injury",
+      "Moderate traumatic brain injury",
+      "Severe traumatic brain injury",
+      "Normal consciousness",
+      "Concussion without impairment"
+    ],
+    "answer": 2,
+    "explanation": "The commonly used GCS severity bands are 13–15 mild, 9–12 moderate and 3–8 severe. Clinical context and airway assessment remain essential.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source prompt: TBI grading",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-052",
+    "topic": "Trauma and emergencies",
+    "subtopic": "ATLS haemorrhage",
+    "question": "In the ATLS classification, Class IV haemorrhage represents:",
+    "options": [
+      "Less than 15% blood volume loss",
+      "15–30% blood volume loss",
+      "30–40% blood volume loss",
+      "More than 40% blood volume loss",
+      "No measurable blood loss"
+    ],
+    "answer": 3,
+    "explanation": "Class IV haemorrhage involves more than 40% estimated blood volume loss and is associated with profound circulatory compromise.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source prompt: ATLS staging of haemorrhage",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-053",
+    "topic": "Urology",
+    "subtopic": "Urinary stones",
+    "question": "Struvite (magnesium ammonium phosphate) stones are classically associated with:",
+    "options": [
+      "Urease-producing urinary tract organisms",
+      "Persistently acidic urine",
+      "Hyperuricaemia alone",
+      "Cystinuria",
+      "Hyperoxaluria alone"
+    ],
+    "answer": 0,
+    "explanation": "Struvite stones form in alkaline urine in association with urease-producing organisms such as Proteus species. The source says 'phosphate stones', which is imprecise; this item is explicitly clarified.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source prompt: phosphate urinary stones; clarified as struvite",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-054",
+    "topic": "Urology",
+    "subtopic": "Bladder outlet obstruction",
+    "question": "Which of the following is a recognised cause of bladder outlet obstruction in an adult man?",
+    "options": [
+      "Benign prostatic enlargement",
+      "Cystic hygroma",
+      "Hydrocele",
+      "Anal fissure",
+      "Varicocele"
+    ],
+    "answer": 0,
+    "explanation": "Benign prostatic enlargement is a common cause of bladder outlet obstruction. Other causes include urethral stricture, prostate cancer and bladder neck dysfunction.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Theory Q5; supplementary MCQ based on source topic",
+    "status": "Supplementary"
+  },
+  {
+    "id": "S1-055",
+    "topic": "Paediatric surgery",
+    "subtopic": "Omphalocele and gastroschisis",
+    "question": "A newborn has a midline abdominal wall defect with bowel loops covered by a translucent sac. The most likely diagnosis is:",
+    "options": [
+      "Gastroschisis",
+      "Omphalocele (exomphalos)",
+      "Umbilical granuloma",
+      "Patent urachus",
+      "Inguinal hernia"
+    ],
+    "answer": 1,
+    "explanation": "Omphalocele is a midline defect with herniated viscera covered by a sac. Gastroschisis is usually paraumbilical and has no covering membrane.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q48",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-056",
+    "topic": "Paediatric surgery",
+    "subtopic": "Haemangioma",
+    "question": "Which statement about an uncomplicated infantile haemangioma is generally correct?",
+    "options": [
+      "It is always premalignant",
+      "Many undergo spontaneous involution over time",
+      "It is a bacterial abscess",
+      "It is always associated with a patent urachus",
+      "It requires immediate wide excision in every case"
+    ],
+    "answer": 1,
+    "explanation": "Many infantile haemangiomas proliferate early and then involute spontaneously. Management depends on site, size, complications and risk to function; they are not considered premalignant lesions.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q43; adapted, false source claim excluded",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-057",
+    "topic": "Paediatric surgery",
+    "subtopic": "Anorectal malformation",
+    "question": "A newborn with an imperforate anus may require which procedure as an initial staged management in selected cases?",
+    "options": [
+      "Temporary diverting colostomy",
+      "Immediate appendicectomy",
+      "Total gastrectomy",
+      "Splenectomy",
+      "Nephrectomy"
+    ],
+    "answer": 0,
+    "explanation": "A diverting colostomy may be used for selected high or complex anorectal malformations before definitive reconstruction. The exact approach depends on anatomy and associated anomalies.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q41/Q44",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-058",
+    "topic": "Endocrine and head & neck",
+    "subtopic": "Thyroid surgery",
+    "question": "A patient develops rapidly expanding neck swelling and stridor shortly after thyroidectomy. What is the immediate priority?",
+    "options": [
+      "Wait for a CT scan",
+      "Urgently open the wound to evacuate the haematoma while calling for help",
+      "Give oral antibiotics and observe",
+      "Send the patient for outpatient ultrasound",
+      "Remove the drain only"
+    ],
+    "answer": 1,
+    "explanation": "A post-thyroidectomy haematoma can rapidly obstruct the airway. Immediate wound opening/haematoma evacuation at the bedside may be lifesaving while airway and return-to-theatre management are organised.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Q28/Q32; source scenario repeated",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-059",
+    "topic": "Trauma and emergencies",
+    "subtopic": "Shock",
+    "question": "Which of the following is a major category of shock?",
+    "options": [
+      "Hypovolaemic",
+      "Metabolic",
+      "Haematological",
+      "Dermatological",
+      "Neuromuscular"
+    ],
+    "answer": 0,
+    "explanation": "The major categories are hypovolaemic, cardiogenic, distributive (including septic, anaphylactic and neurogenic) and obstructive.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-060",
+    "topic": "Surgical principles",
+    "subtopic": "Metabolic response to injury",
+    "question": "Which hormone is expected to increase as part of the endocrine response to major surgical stress?",
+    "options": [
+      "Cortisol",
+      "Insulin only",
+      "Melatonin",
+      "Calcitonin",
+      "Prolactin only"
+    ],
+    "answer": 0,
+    "explanation": "Surgical stress activates the sympathetic and hypothalamic–pituitary–adrenal responses, increasing catecholamines, cortisol and glucagon and promoting insulin resistance.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 5; corrected to a complete concept question",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-061",
+    "topic": "Surgical principles",
+    "subtopic": "Fluid balance",
+    "question": "Which of the following is a common estimate of normal adult urine output used in perioperative monitoring?",
+    "options": [
+      "0.5 mL/kg/hour or more",
+      "5 mL/kg/hour",
+      "10 mL/kg/hour",
+      "20 mL/kg/hour",
+      "No urine output for 12 hours"
+    ],
+    "answer": 0,
+    "explanation": "A urine output of at least approximately 0.5 mL/kg/hour is a commonly used adult target, interpreted in clinical context.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49; source options/definition incomplete, clinically clarified",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-062",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hypospadias",
+    "question": "Hypospadias results from incomplete development or fusion of which embryological structure(s)?",
+    "options": [
+      "Urethral (urogenital) folds",
+      "Müllerian ducts",
+      "Urachus",
+      "Vitelline duct",
+      "Mesonephric tubules"
+    ],
+    "answer": 0,
+    "explanation": "Hypospadias results from incomplete fusion of the urethral folds on the ventral aspect of the developing penis.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q39",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-063",
+    "topic": "Surgical principles",
+    "subtopic": "Antibiotic prophylaxis",
+    "question": "For most operations requiring surgical antibiotic prophylaxis, the initial dose should be administered:",
+    "options": [
+      "After wound closure",
+      "Within 60 minutes before incision (with timing adjusted for drug)",
+      "Three days after surgery",
+      "Only if fever develops",
+      "At the first outpatient review"
+    ],
+    "answer": 1,
+    "explanation": "Prophylactic antibiotics should achieve adequate tissue concentrations at incision, commonly within 60 minutes beforehand; agents requiring prolonged infusion may need earlier administration. Redosing depends on duration and blood loss.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q1; supplementary MCQ derived from topic",
+    "status": "Supplementary"
+  },
+  {
+    "id": "S1-064",
+    "topic": "Surgical principles",
+    "subtopic": "Wound healing",
+    "question": "Which patient factor is associated with delayed wound healing?",
+    "options": [
+      "Poorly controlled diabetes mellitus",
+      "Adequate nutrition",
+      "Good tissue perfusion",
+      "Absence of infection",
+      "Normal oxygenation"
+    ],
+    "answer": 0,
+    "explanation": "Diabetes, malnutrition, smoking, infection, poor perfusion, corticosteroids and obesity can impair wound healing.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Source prompt: risk factors for wound healing",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-065",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Peptic ulcer disease",
+    "question": "Which organism is strongly associated with peptic ulcer disease and gastric adenocarcinoma?",
+    "options": [
+      "Helicobacter pylori",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus epidermidis",
+      "Clostridium tetani",
+      "Neisseria meningitidis"
+    ],
+    "answer": 0,
+    "explanation": "H. pylori is associated with chronic gastritis, peptic ulcer disease and gastric adenocarcinoma/MALT lymphoma. The source's 'mutagene' wording is inaccurate; this is a clarified association question.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q5; source wording corrected",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-066",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Duodenal ulcer obstruction",
+    "question": "Persistent gastric outlet obstruction from chronic duodenal ulcer disease may cause:",
+    "options": [
+      "Hypochloraemic metabolic alkalosis",
+      "Hyperchloraemic metabolic acidosis",
+      "Respiratory alkalosis only",
+      "Hyperkalaemic metabolic acidosis in every case",
+      "No electrolyte disturbance"
+    ],
+    "answer": 0,
+    "explanation": "Repeated vomiting of gastric contents causes loss of hydrogen and chloride ions, commonly producing hypochloraemic, hypokalaemic metabolic alkalosis.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Q31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-067",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cleft lip",
+    "question": "A common functional problem that may necessitate cleft lip/palate repair in addition to cosmetic concerns is:",
+    "options": [
+      "Feeding difficulty",
+      "Haematuria",
+      "Urinary retention",
+      "Bowel obstruction",
+      "Jaundice"
+    ],
+    "answer": 0,
+    "explanation": "Cleft lip and especially associated cleft palate can impair feeding; speech, hearing, dentition and psychosocial factors also influence care.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q10/Q11",
+    "status": "Adapted"
+  }
 ]
