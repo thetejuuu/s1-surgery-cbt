@@ -2123,5 +2123,1507 @@
     "source": "S1 COMPILATION (FIRST ROTATION).docx",
     "sourceQuestion": "Q49",
     "status": "Adapted"
+  },
+  {
+    "id": "R2-001",
+    "topic": "Surgical principles",
+    "subtopic": "Scrubbing and gowning",
+    "question": "Which of the following is the proper sequence during surgery?",
+    "options": [
+      "The right glove goes on before the left glove",
+      "The surgical gloves are worn after gowning",
+      "Scrubbing is for a minimum of 10 minutes",
+      "You scrub from the elbow to the tip of the fingers",
+      "The area of operation is cleaned before gowning and gloving"
+    ],
+    "answer": 1,
+    "explanation": "The surgical team scrubs, gowns and then gloves. The patient’s operative site is prepared as part of the subsequent sterile preparation. The intended correct statement is that gloves are worn after gowning.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q1",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-002",
+    "topic": "Preoperative assessment",
+    "subtopic": "Investigations",
+    "question": "A 35-year-old multiparous woman is being prepared for an exploratory laparotomy. She has no known comorbidities. Blood loss from a similar operation is about 700 mL. Which of these would you NOT counsel her about?",
+    "options": [
+      "Use of general anaesthesia",
+      "Chest X-ray to assess lung fields",
+      "ECG to assess cardiac electrical activity",
+      "[Option missing in source]",
+      "EUCr for renal function"
+    ],
+    "answer": null,
+    "explanation": "The source omits option D and does not provide a reliable key. Retained as an unkeyed source question.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q2",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-003",
+    "topic": "Surgical oncology",
+    "subtopic": "TNM staging",
+    "question": "Which of the following is correct about TNM staging?",
+    "options": [
+      "Stage 2 means it is still in early stage",
+      "Stage 5 is advanced stage",
+      "Stage 3 means no nodularity",
+      "Stage 1 is breast lesion"
+    ],
+    "answer": null,
+    "explanation": "The source options appear incomplete or corrupted. TNM stage definitions depend on the cancer and the T, N and M categories; this item is not safely scoreable as transcribed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q3",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-004",
+    "topic": "Colorectal surgery",
+    "subtopic": "Colostomy",
+    "question": "Which of the following is NOT a type of colostomy?",
+    "options": [
+      "Loop colostomy",
+      "Segment colostomy",
+      "End colostomy",
+      "Spectacles colostomy",
+      "Double-barrel colostomy"
+    ],
+    "answer": 3,
+    "explanation": "“Spectacles colostomy” is not a standard colostomy configuration.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q4",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-005",
+    "topic": "Surgical infection",
+    "subtopic": "SIRS",
+    "question": "Which is NOT a parameter of SIRS?",
+    "options": [
+      "Temperature",
+      "Heart rate",
+      "Partial pressure of oxygen",
+      "Respiratory rate",
+      "White blood cell count"
+    ],
+    "answer": 2,
+    "explanation": "Traditional SIRS criteria use temperature, heart rate, respiratory rate/PaCO₂ and white-cell count; PaO₂ is not one of the four criteria.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q5",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-006",
+    "topic": "Appendicitis",
+    "subtopic": "Clinical features",
+    "question": "Which of these is an unlikely finding in a 12-year-old with a clinical diagnosis of appendicitis?",
+    "options": [
+      "Rebound tenderness",
+      "Tenderness in the right iliac fossa",
+      "Low-grade fever",
+      "Jaundice"
+    ],
+    "answer": 3,
+    "explanation": "Jaundice is not a usual feature of uncomplicated acute appendicitis and should prompt consideration of another or complicated diagnosis.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q6",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-007",
+    "topic": "Thyroid surgery",
+    "subtopic": "Vascular injury",
+    "question": "During mobilization of a huge goitre, there was an unexpected tear in the carotid artery. Which of the following is the most appropriate suture for the repair?",
+    "options": [
+      "Vicryl",
+      "Prolene",
+      "Nylon",
+      "Steel",
+      "PDS"
+    ],
+    "answer": 1,
+    "explanation": "A non-absorbable monofilament vascular suture such as polypropylene (Prolene) is commonly used for arterial repair. The stem itself is recalled as uncertain in the source.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q7",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-008",
+    "topic": "Surgical incisions",
+    "subtopic": "Incision selection",
+    "question": "Which of these incisions is correctly matched with the appropriate procedure?",
+    "options": [
+      "Lanz for appendectomy",
+      "Pfannenstiel for prostatectomy",
+      "Kocher’s for cholecystectomy",
+      "Right paramedian for sigmoidectomy",
+      "Midline superior to the umbilicus for TIP"
+    ],
+    "answer": 2,
+    "explanation": "Kocher’s right subcostal incision is a recognised approach for open cholecystectomy. The other pairings are not the standard matches as stated.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q8",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-009",
+    "topic": "Urology",
+    "subtopic": "Renal injury",
+    "question": "Which of the following is NOT a presentation of kidney injury?",
+    "options": [
+      "Haematuria",
+      "Flank pain",
+      "Frequency",
+      "Dizziness",
+      "Abdominal distension"
+    ],
+    "answer": 2,
+    "explanation": "Urinary frequency is not a typical presenting feature of renal trauma; haematuria and flank pain are more characteristic.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q9",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-010",
+    "topic": "Cleft surgery",
+    "subtopic": "Indications for repair",
+    "question": "What is the common reason why cleft lip is presented to the hospital?",
+    "options": [
+      "Cosmesis"
+    ],
+    "answer": null,
+    "explanation": "Only one option is present in the source. Retained as a source item, not scored.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q10",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-011",
+    "topic": "Cleft surgery",
+    "subtopic": "Complications",
+    "question": "What is the most important complication that will necessitate cleft lip repair?",
+    "options": [
+      "Cosmesis",
+      "Speech problem",
+      "Feeding problem"
+    ],
+    "answer": null,
+    "explanation": "The source gives only three options and the intended answer is not unambiguous without the original full option set/context.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q11",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-012",
+    "topic": "General surgery",
+    "subtopic": "Definitions",
+    "question": "Which of the following definitions is correct?",
+    "options": [
+      "Shock",
+      "Adhesion",
+      "Abscess",
+      "Hernia",
+      "Shock"
+    ],
+    "answer": null,
+    "explanation": "The definitions themselves are missing from the extracted source; this is not scoreable as written.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q12",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-013",
+    "topic": "Urology",
+    "subtopic": "Acute urinary retention",
+    "question": "Which of the following is NOT correct in lower urinary tract symptoms?",
+    "options": [
+      "Acute retention in a male is due to posterior urethral valve",
+      "Acute retention in women is due to phimosis",
+      "All acute retention must have urethral catheterization",
+      "In males … suprapubic aspiration",
+      "In females … suprapubic aspiration"
+    ],
+    "answer": null,
+    "explanation": "The source wording/options are corrupted and contain clinically overgeneralised statements. Preserved without assigning a key.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q13",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-014",
+    "topic": "Postoperative care",
+    "subtopic": "Postoperative fever",
+    "question": "A 12-year-old boy is admitted to the hospital for surgery. Post-operatively, he is managed with a nasogastric tube, urinary catheter and intravenous fluids. On postoperative day 4, he develops a fever. Which of the following is the most likely cause of his fever?",
+    "options": [
+      "Cystitis",
+      "Malaria",
+      "Gastritis",
+      "Thrombophlebitis",
+      "[Option missing in source]"
+    ],
+    "answer": null,
+    "explanation": "Option E is missing and the clinical context is insufficient to choose confidently between the listed causes.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q14",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-015",
+    "topic": "Abdominal surgery",
+    "subtopic": "Right iliac fossa mass",
+    "question": "A 35-year-old wealthy Igbo woman complained of pain in her right iliac fossa of 10 days’ duration. Which of the following is LESS likely to be a diagnosis?",
+    "options": [
+      "Acute appendicitis",
+      "Amoeboma",
+      "Caecal pole tumour",
+      "Right ovarian cyst",
+      "Abdominal tuberculosis"
+    ],
+    "answer": null,
+    "explanation": "The stem and options are preserved. The intended key is not stated in the source and the wording does not provide enough clinical detail for a unique answer.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q15",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-016",
+    "topic": "Thyroid surgery",
+    "subtopic": "Goitre examination",
+    "question": "Which of the following is NOT correct about physical examination for goitre?",
+    "options": [
+      "Inspection of the mass by standing in front of the patient",
+      "Inspection includes asking the patient to swallow and protrude the tongue",
+      "Inspection for exophthalmos by standing in front of the patient",
+      "Palpation includes the examiner standing behind the patient and flexing the patient’s neck",
+      "Checking for Stellwag’s sign by assessing the eye for upper lid retraction"
+    ],
+    "answer": null,
+    "explanation": "The source wording for option E is distorted and the intended incorrect option is uncertain. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q16",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-017",
+    "topic": "Breast surgery",
+    "subtopic": "Surgical instruments",
+    "question": "During breast surgery to excise a fibroadenoma, the registrar found it hard to pull it out of its cavity. What is the correct instrument to use to achieve this?",
+    "options": [
+      "Dissecting scissors",
+      "Kocher’s forceps",
+      "Lane’s forceps",
+      "Allis forceps"
+    ],
+    "answer": null,
+    "explanation": "The source does not provide a confirmed key. Instrument choice depends on the tissue being grasped; this item is retained unkeyed for verification.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q17",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-018",
+    "topic": "Surgical instruments",
+    "subtopic": "Instrument features",
+    "question": "Which of the following is correct about surgical instrumentation?",
+    "options": [
+      "Artery forceps have transverse serrations",
+      "Babcock has bracket and tooth",
+      "Allis … [statement incomplete]"
+    ],
+    "answer": null,
+    "explanation": "The source contains only partial options. Not scored.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q18",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-019",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cystic hygroma",
+    "question": "What clinical diagnosis is associated with cystic hygroma?",
+    "options": [
+      "Palpable thrill",
+      "Transillumination",
+      "Fluid thrill"
+    ],
+    "answer": 1,
+    "explanation": "Cystic hygromas are typically cystic and may transilluminate. A palpable thrill suggests a vascular lesion rather than a typical cystic hygroma.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q19",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-020",
+    "topic": "Paediatric surgery",
+    "subtopic": "Neck swelling",
+    "question": "Which of the following is the commonest cause of neck swelling in children?",
+    "options": [
+      "Cystic hygroma",
+      "Goitre",
+      "Cystic adenitis",
+      "Thyroglossal cyst",
+      "Lymphoma"
+    ],
+    "answer": null,
+    "explanation": "The question is preserved verbatim in substance. “Cystic adenitis” may be a transcription error for cervical lymphadenitis, so the intended comparison needs checking against the original paper.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q20",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-021",
+    "topic": "Paediatric surgery",
+    "subtopic": "Typhoid perforation",
+    "question": "A 9-year-old Fulani boy presented to A&E with abdominal distension, high-grade fever and generalized abdominal tenderness with a tinge of jaundice. Temperature was about 39°C. Which is the most likely diagnosis?",
+    "options": [
+      "Acute appendicitis",
+      "Perforated appendicitis",
+      "Typhoid intestinal perforation",
+      "Perforated peptic ulcer"
+    ],
+    "answer": 2,
+    "explanation": "In the context of a child with prolonged febrile illness and generalized peritonitis, typhoid intestinal perforation is a key consideration. The source does not provide the full duration details.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q21",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-022",
+    "topic": "Gastrointestinal bleeding",
+    "subtopic": "Melena",
+    "question": "Which of the following is NOT correct about gastrointestinal haemorrhage?",
+    "options": [
+      "Melena is commonly associated with lower gastrointestinal bleeding"
+    ],
+    "answer": 0,
+    "explanation": "Melena usually indicates an upper gastrointestinal source, although small-bowel or right-colonic bleeding can occasionally produce it.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q22",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-023",
+    "topic": "Hernias",
+    "subtopic": "Definitions",
+    "question": "Which of these is NOT correct?",
+    "options": [
+      "Giant hernia extends to the mid-thigh",
+      "Giant omphalocele is about 5 cm in diameter",
+      "Diarrhoea is stool greater than 500 g/day",
+      "Normal SpO₂ is 95% to 100%",
+      "Giant goitre is greater than 0.3 kg/kg body weight"
+    ],
+    "answer": null,
+    "explanation": "Several statements are unusual or definition-dependent, and the source’s “giant goitre” wording is likely corrupted. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q26",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-024",
+    "topic": "Breast surgery",
+    "subtopic": "Breast cancer risk",
+    "question": "A 49-year-old woman presented with a breast lump of 5 months. Her menarche was at 11 years. Which of the following is incorrect?",
+    "options": [
+      "Menarche at 11 reduces her risk of cancer",
+      "Her age suggests a malignancy",
+      "The duration suggests a malignancy",
+      "Triple assessment should include ultrasound",
+      "Triple assessment should include mammogram"
+    ],
+    "answer": 0,
+    "explanation": "Earlier menarche is generally associated with a modestly increased, not reduced, breast cancer risk. The other options are broad statements and should not be interpreted as diagnostic certainty.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q27",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-025",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Haemorrhoids and lifestyle",
+    "question": "A 63-year-old woman with BMI of 33, who stands/works almost throughout the day, eats pap in the morning, bread in the afternoon and rice in the evening, and drinks one sachet of water after every meal, presents with symptoms suggestive of haemorrhoids. Which advice is correct/incorrect?",
+    "options": [
+      "Her gender is a predisposing factor",
+      "She should work on her weight",
+      "She should drink more water",
+      "She should increase her sedentary period to prevent anal prolapse",
+      "Improve her diet"
+    ],
+    "answer": 3,
+    "explanation": "Increasing sedentary time is not appropriate advice. Lifestyle advice generally includes adequate fibre, hydration, healthy weight and avoiding prolonged straining.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q28",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-026",
+    "topic": "Trauma",
+    "subtopic": "Glasgow Coma Scale",
+    "question": "A man opens his eyes to speech, makes incomprehensible sounds and withdraws/removes the doctor’s hand in response to pain. What is his Glasgow Coma Scale score?",
+    "options": [
+      "9",
+      "8",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Eye opening to speech = 3, incomprehensible sounds = 2, and withdrawal from pain = 4; total = 9. The motor response wording in the source is slightly unclear.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q29/Q38",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-027",
+    "topic": "Trauma",
+    "subtopic": "Shock",
+    "question": "Which of the following is NOT a major type of shock?",
+    "options": [
+      "Cardiogenic",
+      "Vasogenic",
+      "Anaphylactic",
+      "Hypovolaemic",
+      "Neurogenic"
+    ],
+    "answer": null,
+    "explanation": "The source’s term “cardionergic”/“vasculogenic” appears corrupted. The item is retained unkeyed because the options cannot be reliably normalised without altering the original.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q30",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-028",
+    "topic": "Hernias",
+    "subtopic": "Paediatric inguinal hernia",
+    "question": "A 4-year-old child presented with groin swelling which protrudes when sitting and disappears when lying down. Which of the following is NOT correct?",
+    "options": [
+      "Treatment is herniorrhaphy"
+    ],
+    "answer": null,
+    "explanation": "Only one option was captured in the source. Not scoreable.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q31",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-029",
+    "topic": "Urology",
+    "subtopic": "Open prostatectomy",
+    "question": "A patient came for open prostatectomy. Which is NOT a complication of the procedure he would be told about?",
+    "options": [
+      "Priapism",
+      "Epididymo-orchitis",
+      "Retrograde ejaculation",
+      "Osteitis pubis"
+    ],
+    "answer": null,
+    "explanation": "The source provides no confirmed key. The item is preserved for review because the listed complications and their relative likelihood need checking.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q32",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-030",
+    "topic": "Urology",
+    "subtopic": "Undescended testis",
+    "question": "Which of the following is correct about undescended testis?",
+    "options": [
+      "It can be found in the mid-thigh",
+      "It is associated with congenital inguinal hernia",
+      "It is as a result of excessive growth of scrotal rugae",
+      "Diagnosis requires testicular biopsy"
+    ],
+    "answer": 1,
+    "explanation": "Undescended testis is associated with a patent processus vaginalis and congenital indirect inguinal hernia. The remaining options are not correct as stated.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q33",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-031",
+    "topic": "Urology",
+    "subtopic": "Catheterisation",
+    "question": "A junior registrar is about to catheterise someone. Which step was correct?",
+    "options": [
+      "He milked the lubricant down the urethra and waited for 5 minutes",
+      "The assistant tore the outer nylon from the bottom",
+      "He tore the inner nylon from the tip",
+      "He left it to get to the Y-junction and did not let it spring back before inflating",
+      "He connected it to the urine bag before inflating"
+    ],
+    "answer": null,
+    "explanation": "The wording is corrupted and the source’s “correct step” formulation is unclear. Do not use as a scored item until checked against the original teaching material.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q25",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-031B",
+    "topic": "Urology",
+    "subtopic": "Catheterisation",
+    "question": "A junior registrar is about to catheterise someone. Which step was correct?",
+    "options": [
+      "He milked the lubricant down the urethra and waited for 5 minutes",
+      "The assistant tore the outer nylon from the bottom",
+      "The intern tore the inner nylon from the tip",
+      "He left it to get to the Y-junction and did not let it spring back before inflating",
+      "He infused 15 mL of normal saline into the catheter after connecting it to the urine bag"
+    ],
+    "answer": null,
+    "explanation": "This is the second recollection of the catheterisation question (Q39). The source versions differ; retained separately to preserve the paper’s repeated wording.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q39",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-032",
+    "topic": "Surgical oncology",
+    "subtopic": "Mastectomy",
+    "question": "Which of the following is NOT a type of mastectomy?",
+    "options": [
+      "Skin-sparing mastectomy",
+      "Nipple-sparing mastectomy",
+      "Muscle-sparing mastectomy",
+      "Debridement mastectomy",
+      "Modified radical mastectomy"
+    ],
+    "answer": 3,
+    "explanation": "Debridement mastectomy is not a standard named mastectomy category.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q45",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-033",
+    "topic": "Biliary surgery",
+    "subtopic": "Biliary signs and eponyms",
+    "question": "Which one of the following combinations is INCORRECT?",
+    "options": [
+      "Charcot’s triad: jaundice, right abdominal mass, chills and rigors",
+      "Moynihan aphorism: “A gallstone is a tombstone erected to the memory of the organism within it”",
+      "Courvoisier’s phenomenon: if a gallbladder is distended, it is unlikely to be due to gallstones",
+      "Reynolds’ pentad: abdominal tenderness, jaundice, fever with chills, hypotension and altered sensorium"
+    ],
+    "answer": 0,
+    "explanation": "Charcot’s triad is fever, right upper quadrant pain and jaundice; a palpable right abdominal mass is not part of the triad.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q47",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-034",
+    "topic": "Paediatric surgery",
+    "subtopic": "Omphalocele and gastroschisis",
+    "question": "A child was born with a protrusion in the midline of the abdomen containing intestinal loops covered by a transparent membrane, about 8 cm in size. Which statement is correct?",
+    "options": [
+      "It is a ventral hernia",
+      "The diagnosis is gastroschisis",
+      "It can be managed in Nigeria",
+      "It is a congenital condition and not a post-delivery complication",
+      "It could be associated with some other defects"
+    ],
+    "answer": 4,
+    "explanation": "A midline bowel-containing defect covered by a sac is characteristic of omphalocele, which is associated with other congenital anomalies. The options do not explicitly name omphalocele.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q48",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-035",
+    "topic": "Urology",
+    "subtopic": "Urinary symptoms",
+    "question": "Which of the following is NOT correct?",
+    "options": [
+      "Waking up to urinate more than once is nocturia",
+      "Normal urine output is 20–30 mL/hour",
+      "Polyuria is urinating more than 7 times during the day",
+      "A normal individual has a urine output of 1–2 mL/kg/hour"
+    ],
+    "answer": null,
+    "explanation": "The source options mix definitions and thresholds. The intended key is uncertain; preserved unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete"
+  },
+  {
+    "id": "R2-036",
+    "topic": "Burns",
+    "subtopic": "Burn surface area",
+    "question": "A family consisting of a father, mother, a 4-year-old daughter and an 11-year-old son were brought to the surgical emergency room on account of flame injury. Which can be used to estimate the level/extent of injury?",
+    "options": [
+      "Total body surface area",
+      "Wallace’s Rule of Nines",
+      "Lund–Browder chart",
+      "[Option missing]",
+      "Palmer method"
+    ],
+    "answer": 2,
+    "explanation": "The Lund–Browder chart is preferred for estimating burn surface area in children because it accounts for age-related body-proportion differences. Option D is missing in the source.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q50",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-037",
+    "topic": "Surgical assessment",
+    "subtopic": "Scoring systems",
+    "question": "Which diagnosis and examination/scoring system is paired WRONG?",
+    "options": [
+      "Pancreatitis: Glasgow scale",
+      "Pancreatitis: Ranson score",
+      "Colonic tumour: Dukes’ staging",
+      "Prostate cancer: Gleason score",
+      "Child–Pugh: abdominal mass"
+    ],
+    "answer": 4,
+    "explanation": "Child–Pugh assesses severity/prognosis in chronic liver disease using clinical and biochemical parameters, not an abdominal mass.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q51",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-038",
+    "topic": "Hernias",
+    "subtopic": "History taking",
+    "question": "A farmer presented with right groin swelling of 2 weeks’ duration. Other symptoms include poor urinary stream, constipation and cough. He has a wife and 3 children. Which of these is NOT correct?",
+    "options": [
+      "The presenting complaint is a right groin protrusion of 14 days’ duration",
+      "The social history states that he has 3 children",
+      "Cough is mentioned as part of the review of systems",
+      "Poor urinary stream is mentioned as part of the history of presenting complaint",
+      "Constipation is mentioned under the history of presenting complaints"
+    ],
+    "answer": 2,
+    "explanation": "Cough is a symptom that may be elicited in the respiratory review of systems, while the other listed symptoms are part of the presenting history as described. The source’s intended categorisation may depend on the case-taking format taught.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q52",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-039",
+    "topic": "Urology",
+    "subtopic": "Prostatectomy",
+    "question": "Which of the following is NOT an approach for prostatectomy?",
+    "options": [
+      "Transrectal",
+      "Transvesical",
+      "Transperineal",
+      "Transurethral",
+      "Retropubic"
+    ],
+    "answer": 0,
+    "explanation": "Transrectal is not a standard approach for prostatectomy. Recognised approaches include retropubic, transvesical/suprapubic, perineal and transurethral techniques.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q53",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-040",
+    "topic": "Clinical examination",
+    "subtopic": "General physical examination",
+    "question": "A student reports general physical examination. Which one is incorrect?",
+    "options": [
+      "Evaluation for anaemia",
+      "Check for mid-arm circumference",
+      "Digital rectal examination",
+      "Assessment for high bilirubin levels in the system",
+      "Evaluation for excess interstitial fluid"
+    ],
+    "answer": 2,
+    "explanation": "Digital rectal examination is a focused/system examination rather than a routine general physical examination.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q54",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T01",
+    "topic": "Clinical history",
+    "subtopic": "History taking",
+    "question": "Which of the following is correct about history taking?",
+    "options": [
+      "The presenting complaint includes the current signs and their duration only",
+      "Information related to the wife and child will be established in the family history",
+      "The history of medicine used for current symptoms will be in the drug history",
+      "Information about diet and exercise includes only symptoms present at the time of inquiry",
+      "The review of systems includes symptoms currently present"
+    ],
+    "answer": 2,
+    "explanation": "The medication used for the current symptoms belongs in the drug history.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 1",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T02",
+    "topic": "Clinical examination",
+    "subtopic": "Normal parameters",
+    "question": "Which of the following definitions is correct?",
+    "options": [
+      "Normal adult respiration is 12 to 34 cycles per minute",
+      "Normal bowel sound is 1 in 3 minutes to 3 in 1 minute",
+      "GOA is 3 g per kg body weight",
+      "Hypokalemia is serum level of 3.2 to 2.7, extending below the knee",
+      "[Option E not clearly stated]"
+    ],
+    "answer": null,
+    "explanation": "The source options are corrupted or clinically implausible; retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 2",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T03",
+    "topic": "Perioperative care",
+    "subtopic": "Fluid balance",
+    "question": "Which of the following parameters is NOT correct about the expected fluid balance?",
+    "options": [
+      "Insensible water loss is about 1,700 mL per day",
+      "Fluid loss increases by about 200 mL per day for each degree of fever",
+      "Our daily maintenance fluid requirement is 3 litres per day",
+      "The daily potassium requirement is 60 mEq per day",
+      "[Additional option not specified]"
+    ],
+    "answer": null,
+    "explanation": "Option E is absent and some figures depend on the reference used. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 3",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T04",
+    "topic": "Shock",
+    "subtopic": "Classification",
+    "question": "Which of the following is NOT a main class of shock?",
+    "options": [
+      "Anaphylactic",
+      "Neurogenic",
+      "Septic",
+      "Hypovolaemic",
+      "Cardiogenic"
+    ],
+    "answer": null,
+    "explanation": "All five listed options are recognised shock categories; the question may have been misremembered or the intended option omitted.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 4",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T05",
+    "topic": "Perioperative care",
+    "subtopic": "Metabolic response",
+    "question": "Which of the following could NOT be a biochemical manifestation of metabolic response to trauma?",
+    "options": [
+      "Hypoglycemia",
+      "Excessive cortisol increase",
+      "Increase in catecholamines",
+      "Thyroid hormone elevation",
+      "[Additional option implied but not stated]"
+    ],
+    "answer": null,
+    "explanation": "The final option is missing and the source does not provide a key. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 5",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T06",
+    "topic": "Trauma",
+    "subtopic": "Femoral fracture",
+    "question": "A patient was involved in a road traffic crash with a mid-shaft femoral fracture. He was brought to the hospital within an hour of the injury. Which of the following is NOT a likely clinical finding?",
+    "options": [
+      "Hypothermia",
+      "Palpitations",
+      "Hypotension",
+      "Blurred vision",
+      "[Additional option not clearly stated]"
+    ],
+    "answer": null,
+    "explanation": "Option E is missing and clinical findings depend on the degree of blood loss and associated injuries.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 6",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T07",
+    "topic": "Perioperative care",
+    "subtopic": "Metabolic response",
+    "question": "Who among the following patients is likely to evoke the LEAST metabolic response?",
+    "options": [
+      "A 25-year-old weightlifter who sustained 30% burns",
+      "A 72-year-old postmenopausal woman with bilateral femoral fracture",
+      "A 19-year-old undernourished girl with bilateral femoral fracture",
+      "A 45-year-old banker with multiple lacerations",
+      "A 9-year-old overweight boy with a femoral injury"
+    ],
+    "answer": 3,
+    "explanation": "Among these options, multiple lacerations without a major burn or bilateral long-bone fractures would generally produce the least severe stress response. This is an independently supplied practice key.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 7",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T08",
+    "topic": "Haemostasis",
+    "subtopic": "Bleeding patterns",
+    "question": "A 35-year-old pregnant and diabetic woman presented with bright oozing haemorrhage from the right calf. Which of the following is correct about the pattern of bleeding?",
+    "options": [
+      "The pattern of bleeding is due to the diabetes",
+      "The pattern of bleeding is due to capillary bleeding",
+      "The pattern of bleeding is due to the site of the wound",
+      "The pattern of bleeding is due to her physiologic status (pregnancy)",
+      "The pattern of bleeding is due to a secondary haemorrhage"
+    ],
+    "answer": 1,
+    "explanation": "Bright, diffuse oozing is classically associated with capillary bleeding. The stem may lack details about the wound.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 8",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T09",
+    "topic": "Preoperative assessment",
+    "subtopic": "Internal environment",
+    "question": "A 70-year-old man requires preoperative optimization. Which parameter suggests derangement in the internal environment requiring preoperative correction?",
+    "options": [
+      "Pulse rate increases to 100 beats per minute",
+      "Respiratory rate of 18 cycles per minute",
+      "Temperature of 37.2°C",
+      "Urine output of 700 mL per day",
+      "Serum sodium of 140 mmol per litre"
+    ],
+    "answer": 0,
+    "explanation": "A pulse of 100 beats/min is at the upper threshold and should prompt clinical assessment; however, the source may have intended another abnormal parameter. This key is not sufficiently secure, so item remains unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 9",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T10",
+    "topic": "Wound healing",
+    "subtopic": "Postoperative recovery",
+    "question": "Which of the following is NOT a normal pattern in wound healing and recovery?",
+    "options": [
+      "Presence of neutrophils in the abdominal wound on postoperative day two",
+      "Deposition of collagen in the abdominal wound on day two",
+      "Presence of anorexia and absence of bowel sounds on day two",
+      "Presence of mild tenderness directly over the wound on day two",
+      "Elevated serum cortisol levels on day two"
+    ],
+    "answer": null,
+    "explanation": "All can occur in the early postoperative period to varying degrees; the item is not uniquely answerable as transcribed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 10",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T11",
+    "topic": "Trauma",
+    "subtopic": "Shock assessment",
+    "question": "A 45-year-old banker with no previous illness was involved in a head-on crash on Third Mainland Bridge. You can smell alcohol on his breath, and he is unconscious with massive bleeding. Which of the following is NOT an expected finding?",
+    "options": [
+      "Blurry vision",
+      "Moist, cold hands",
+      "Buzzing in the ears",
+      "Capillary refill of 3 to 4 seconds",
+      "Urine output of 50 mL per hour"
+    ],
+    "answer": 4,
+    "explanation": "In significant haemorrhagic shock, urine output is expected to fall rather than remain at 50 mL/hour.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 11",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T12",
+    "topic": "Trauma",
+    "subtopic": "ATLS primary survey",
+    "question": "During a mass casualty situation in the emergency room, a medical student implements the ATLS primary survey protocol on a 30-year-old man with multiple injuries. Which of the following is a flaw in the implementation?",
+    "options": [
+      "Talking to the patient to assess airway patency",
+      "Using a stethoscope to listen to breath sounds",
+      "Palpating the pulse in the neck",
+      "Checking the neurological deficit with the Glasgow Coma Scale",
+      "Exposing the patient and examining from head to toe"
+    ],
+    "answer": null,
+    "explanation": "The listed actions broadly correspond to the primary survey. The source may be testing sequence or a specific detail not captured in the transcription; retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 12",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T13",
+    "topic": "Surgical instruments",
+    "subtopic": "Instrument features",
+    "question": "Which of the following statements about surgical instruments is FALSE?",
+    "options": [
+      "Laparoscopic instruments are generally shorter than open instruments",
+      "Artery forceps have transverse serrations on the grasping end",
+      "Needle holders have longitudinal serrations on the grasping surface",
+      "The Babcock forceps have bracket-shaped jaws",
+      "Sinus forceps have no serrations"
+    ],
+    "answer": 0,
+    "explanation": "Laparoscopic instruments are generally longer, not shorter, than open instruments.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 13",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T14",
+    "topic": "Surgical instruments",
+    "subtopic": "Instrument parts",
+    "question": "Which of the following is NOT one of the parts of a typical open surgical hand instrument?",
+    "options": [
+      "The jaws",
+      "The pivot",
+      "The handle",
+      "The ratchet",
+      "The business end"
+    ],
+    "answer": null,
+    "explanation": "The terminology overlaps: jaws/business end may describe the same region, while not all instruments have ratchets or pivots. The question is ambiguous without the teaching convention.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 14",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T15",
+    "topic": "Surgical instruments",
+    "subtopic": "Instrument uses",
+    "question": "During a procedure, the doctor used different instruments. Which of the following uses is WRONG?",
+    "options": [
+      "Artery forceps to hold capillaries",
+      "Babcock forceps to hold the bowel wall",
+      "Langenbeck retractor to separate wound edges",
+      "Dissecting forceps to dissect fascial planes",
+      "[Additional option not clearly stated]"
+    ],
+    "answer": null,
+    "explanation": "Option E is missing and the remaining statements are not enough to identify a unique incorrect use.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 15",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T16",
+    "topic": "Wound healing",
+    "subtopic": "Phases",
+    "question": "Which of the following is NOT a stage or phase of wound healing?",
+    "options": [
+      "Inflammatory stage",
+      "Proliferative stage",
+      "Remodelling stage",
+      "Granulation phase",
+      "Necrosis"
+    ],
+    "answer": 4,
+    "explanation": "The conventional phases are haemostasis, inflammation, proliferation and remodelling/maturation. Necrosis is tissue death, not a healing phase.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 16",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T17",
+    "topic": "Pain management",
+    "subtopic": "Pain assessment",
+    "question": "A multiparous woman presented with abdominal pain which has been difficult to control. Which is the best evaluation of the pain severity in order to plan adequate analgesia?",
+    "options": [
+      "Compare the current pain with the worst labour pain experienced",
+      "Compare the current pain with the worst pain on the same day",
+      "Compare the current pain with the least disturbing pain on the same day",
+      "Compare the current pain with the worst pain ever experienced",
+      "Compare the current pain with baseline pain levels"
+    ],
+    "answer": null,
+    "explanation": "The source offers several subjective comparisons; standard practice is to use a validated pain scale and the patient’s own rating rather than assume a universal comparator.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 17",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T18",
+    "topic": "Breast surgery",
+    "subtopic": "Breast cancer risk",
+    "question": "Your 50-year-old aunt has breast cancer. She reported that her sister-in-law died of breast cancer recently. She had an abortion at age 17 and went on to have her first child at age 27. She breastfed all children for 6 months each. Which of the following is NOT correct?",
+    "options": [
+      "She has a significant family history of breast cancer",
+      "First childbirth at age 27 is protective against breast cancer",
+      "First childbirth does not increase the risk of breast cancer",
+      "Breastfeeding each child for 6 months reduces the risk of breast cancer",
+      "Patient should be counselled to undergo screening breast ultrasound and mammography"
+    ],
+    "answer": 0,
+    "explanation": "A sister-in-law is not a blood relative, so this does not establish a significant hereditary family history. The screening recommendation depends on age and individual risk; this item has a single likely intended answer.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 18",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T19",
+    "topic": "Breast examination",
+    "subtopic": "Inspection",
+    "question": "A 59-year-old woman complains that there is a mass in the right breast causing asymmetry of the breasts. She is worried about cancer. Which is the best method to confirm the asymmetry?",
+    "options": [
+      "Ask her to raise both arms and observe from the right side",
+      "Ask her to raise both arms and observe from the left side",
+      "Ask her to lie down and observe from the left side",
+      "Ask her to sit on the edge of the couch",
+      "Ask her to lie down and observe from the foot of the couch"
+    ],
+    "answer": null,
+    "explanation": "The source’s options concern positioning and viewing angle; without the original image/teaching context, no unique answer is assigned.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 19",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T20",
+    "topic": "Upper GI pathology",
+    "subtopic": "Pancreatic carcinoma",
+    "question": "A 71-year-old man presented with epigastric pain and weight loss of 3 months and jaundice of one week. He was newly diagnosed diabetic. Examination revealed an epigastric mass which the examiner could get above but could not get below. There was a separate cystic mass in the right hypochondrium. Which is correct?",
+    "options": [
+      "The epigastric mass is likely to be the liver",
+      "The cystic mass is likely to be the transverse colon",
+      "The pattern of jaundice will suggest hepatic jaundice",
+      "Absence of urobilinogen will suggest obstructive jaundice",
+      "The findings are suggestive of carcinoma of the pancreas"
+    ],
+    "answer": 4,
+    "explanation": "Painless/progressive obstructive jaundice, weight loss, new-onset diabetes and a palpable gallbladder are concerning for pancreatic head carcinoma. The described mass relationship is imperfectly transcribed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 20",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T21",
+    "topic": "Neck surgery",
+    "subtopic": "Differential diagnosis",
+    "question": "A 55-year-old woman presented to the clinic with a mass in the neck. Which is the LEAST likely diagnosis?",
+    "options": [
+      "Thyroglossal duct cyst",
+      "Simple goitre",
+      "Cystic hygroma",
+      "Branchial cyst",
+      "Lymphadenopathy"
+    ],
+    "answer": 2,
+    "explanation": "Cystic hygroma is predominantly a congenital lesion presenting in infancy/childhood; it is less likely as a new neck mass in a 55-year-old.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 21",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T22",
+    "topic": "Urology",
+    "subtopic": "Catheterisation",
+    "question": "Which of the following is inappropriate in the steps undertaken by the intern during catheterisation?",
+    "options": [
+      "The intern put on gloves, took down the patient’s underwear and waited for 5 minutes",
+      "The intern peeled off the outer paper covering of the catheter starting from the base",
+      "The intern peeled off the inner transparent nylon covering of the catheter at the tip",
+      "The intern inflated the balloon with 10 mL of sterile water",
+      "The intern connected the drainage bag after insertion"
+    ],
+    "answer": null,
+    "explanation": "The source’s catheter packaging description is not sufficiently clear to identify which step is inappropriate; balloon inflation should only occur after confirming the catheter is in the bladder.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 22",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T23",
+    "topic": "Burns",
+    "subtopic": "Immediate burn care",
+    "question": "Which of the following is NOT required for immediate care in a patient with burns?",
+    "options": [
+      "Cool the burn",
+      "Remove clothing",
+      "Apply topical antibiotics",
+      "Establish an IV line for resuscitation",
+      "Use KY jelly"
+    ],
+    "answer": 2,
+    "explanation": "Routine immediate first aid focuses on cooling with cool running water, removing constricting clothing/jewellery and appropriate resuscitation. Topical antibiotics are not a universal immediate first-aid step.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 23",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T24",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hirschsprung disease",
+    "question": "An experienced mother brought her three-year-old son to the hospital. She noticed that unlike her previous children, the first time the boy passed stool was on the eighth day after delivery. Since then, he stools only once in two weeks with loose stools. Which of the following is NOT correct?",
+    "options": [
+      "The symptom the mother described is constipation",
+      "The most likely diagnosis is Hirschsprung’s disease",
+      "The gold-standard diagnosis is rectal biopsy",
+      "Surgery will be required for treatment",
+      "The condition affects the rectosigmoid region most commonly"
+    ],
+    "answer": null,
+    "explanation": "The options are broadly consistent with Hirschsprung disease; the source may contain a missing qualifier or error. Retained unkeyed rather than forcing a false answer.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 24",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T25",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cleft lip",
+    "question": "An observant mother noticed splitting of the upper lip stopping short of the right nostril. Examination of the face and mouth showed no other defect. Which of the following is NOT correct?",
+    "options": [
+      "This is a congenital defect of the lip called cleft lip",
+      "Evaluation of the child should include examination for associated conditions",
+      "The first branch of the trigeminal nerve is commonly affected",
+      "Feeding of such children is commonly difficult",
+      "Repair of the defect will be scheduled for when the child is between 10 to 12 weeks of age"
+    ],
+    "answer": 2,
+    "explanation": "The trigeminal nerve is not the nerve classically implicated in cleft lip; the facial nerve supplies muscles of facial expression.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 25",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-T26",
+    "topic": "Upper GI surgery",
+    "subtopic": "Perforated peptic ulcer",
+    "question": "A 62-year-old American on holiday in Lagos presented with sudden onset of severe epigastric pain of 5 hours’ duration. He noticed blood when he was about to vomit after 5 hours. The pain disappeared only for the pain to resume in the whole abdomen. Which is correct?",
+    "options": [
+      "The patient has perforated peptic ulcer",
+      "The findings suggest acute pancreatitis",
+      "The patient needs immediate laparotomy",
+      "This is likely a Mallory–Weiss tear",
+      "Conservative management is appropriate"
+    ],
+    "answer": null,
+    "explanation": "The sudden severe epigastric pain becoming generalized raises concern for perforation and peritonitis, but the source’s chronology and vomiting description are unclear. More than one option may be defensible; retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 26",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-T27",
+    "topic": "Hernias",
+    "subtopic": "Definitions",
+    "question": "Which of the following definitions is correct?",
+    "options": [
+      "Normal pulse rate is 60–200 beats per minute",
+      "Giant ventral hernia is more than 10 cm defect",
+      "Giant inguinal hernia is one extending down to the knee of the patient",
+      "Constipation is reduced peristalsis of less than three bowel movements per day for 3 days",
+      "Epigastric hernia is one located in the midline and more than 2 cm from the umbilicus"
+    ],
+    "answer": null,
+    "explanation": "The source definitions are non-standard or ambiguous; retained unkeyed pending verification against the lecturer’s intended definitions.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Transcript Question 27",
+    "status": "Verbatim · Immediate seniors R2 2025 transcript",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-041",
+    "topic": "Hernias",
+    "subtopic": "Definitions",
+    "question": "Which of these is NOT correct?",
+    "options": [
+      "Giant hernia extends to the mid-thigh",
+      "Giant omphalocele is about 5 cm in diameter",
+      "Diarrhoea is stool greater than 500 g/day",
+      "Normal SpO₂ is 95% to 100%",
+      "Giant goitre is greater than 0.3 kg/kg body weight"
+    ],
+    "answer": null,
+    "explanation": "The source wording includes unusual/possibly corrupted definitions, especially the giant-goitre statement. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q23/Q26",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-042",
+    "topic": "Urology",
+    "subtopic": "Circumcision",
+    "question": "A 45-year-old Yoruba patient came for circumcision. Which of the following is correct?",
+    "options": [
+      "He likely has (or is at risk of) priapism",
+      "He likely has coagulopathy"
+    ],
+    "answer": null,
+    "explanation": "Only two statements are visible in the source and the clinical context is insufficient.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q34",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-043",
+    "topic": "Urology",
+    "subtopic": "Circumcision",
+    "question": "A 45-year-old Yoruba patient came for circumcision. Which of the following is correct?",
+    "options": [
+      "He likely has (or is at risk of) priapism",
+      "He likely has coagulopathy",
+      "Use Plastibell method",
+      "Never do open surgery",
+      "Do not attend to him because he is presenting late"
+    ],
+    "answer": null,
+    "explanation": "Repeated source version of the circumcision question. The options are preserved as transcribed; no key supplied.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q35",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-044",
+    "topic": "Urology",
+    "subtopic": "Sebaceous cyst",
+    "question": "Which of the following is a feature of a sebaceous cyst?",
+    "options": [
+      "Absence of pain",
+      "Presence of hair",
+      "Presence of punctum",
+      "Indentation sign",
+      "Transillumination"
+    ],
+    "answer": 2,
+    "explanation": "A central punctum is characteristic of an epidermoid (commonly called sebaceous) cyst.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q36",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-045",
+    "topic": "Trauma",
+    "subtopic": "Glasgow Coma Scale",
+    "question": "A man opens his eyes to speech, makes incomprehensible sounds and withdraws the doctor’s hand in response to pain, but does not obey commands. What is his GCS score?",
+    "options": [
+      "9",
+      "8",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Eye opening to speech (E3) + incomprehensible sounds (V2) + withdrawal from pain (M4) = 9.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q38",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-046",
+    "topic": "Trauma",
+    "subtopic": "ATLS primary survey",
+    "question": "A 45-year-old banker with a femoral fracture is assessed using ATLS. Which step was flawed?",
+    "options": [
+      "Thinking of A, he talked to the patient to assess airway patency",
+      "Thinking of B, he observed chest movement with respiration",
+      "Thinking of C, he palpated the carotid pulse",
+      "Thinking of D, he evaluated neurological deficit using the GCS",
+      "Thinking of E, he exposed the patient and examined from head to toe"
+    ],
+    "answer": null,
+    "explanation": "These actions broadly map to ATLS ABCDE. The source may be testing a subtle sequence or detail not recoverable from the wording. Unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q40",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-047",
+    "topic": "Paediatric surgery",
+    "subtopic": "Anorectal malformation",
+    "question": "A 7-month-old infant was brought to the clinic with vomiting. On examination, there was no anus. A surgical procedure was done and a colostomy was inserted on the left. Which of the following is NOT correct?",
+    "options": [
+      "It is just a temporary management",
+      "It is a complication of fistula",
+      "It is most probably connected to the descending colon",
+      "A complication of this is stoma prolapse"
+    ],
+    "answer": null,
+    "explanation": "The source contains two versions of this question, with option B differing (“complication of fistula” versus “iatrogenic fistula”). It is retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q41",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-048",
+    "topic": "Surgical oncology",
+    "subtopic": "Virchow node",
+    "question": "Left supraclavicular node metastasis, EXCEPT:",
+    "options": [
+      "Troisier’s sign",
+      "Virchow’s node",
+      "Prostate",
+      "Testicular",
+      "Anal"
+    ],
+    "answer": 2,
+    "explanation": "Prostate cancer more commonly spreads to pelvic/para-aortic nodes and bone; the classic Virchow node is associated with abdominal malignancy. The item is simplified and not a complete list of possible metastases.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q42",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-049",
+    "topic": "Paediatric surgery",
+    "subtopic": "Infantile haemangioma",
+    "question": "A consultant saw a paediatric patient with haemangioma and asked a medical student to counsel the mother. Which statement is NOT correct?",
+    "options": [
+      "It is a form of hamartoma",
+      "It will spontaneously disappear as the child grows",
+      "It is a predisposition to carcinoma in the future",
+      "[Option D missing]",
+      "[Option E missing]"
+    ],
+    "answer": 2,
+    "explanation": "Infantile haemangiomas are benign vascular tumours that commonly involute; they are not a premalignant condition. Options D and E are missing.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q43",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Practice key added independently; not supplied in source"
+  },
+  {
+    "id": "R2-050",
+    "topic": "Paediatric surgery",
+    "subtopic": "Anorectal malformation",
+    "question": "A 7-month-old infant was brought to the clinic with vomiting. Examination showed no anus; a left-sided colostomy was inserted. Which of the following is NOT correct?",
+    "options": [
+      "It is just a temporary management",
+      "It is an iatrogenic fistula",
+      "It is most probably connected to the descending colon",
+      "A complication of this is stoma prolapse"
+    ],
+    "answer": null,
+    "explanation": "This is the second source version of Q41. The option wording differs; retained separately and unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q44",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-051",
+    "topic": "Abdominal surgery",
+    "subtopic": "Right iliac fossa mass",
+    "question": "A 45-year-old wealthy Igbo woman presented with a right iliac fossa abdominal mass of 10 days’ duration. Which is the most likely diagnosis?",
+    "options": [
+      "Amoeboma",
+      "Acute appendicitis",
+      "Abdominal tuberculosis",
+      "Typhoid intestinal perforation",
+      "Caecal pole tumour"
+    ],
+    "answer": null,
+    "explanation": "The source gives no further examination findings or systemic history to distinguish these diagnoses. Retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q46",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source incomplete/ambiguous"
+  },
+  {
+    "id": "R2-052",
+    "topic": "Gastrointestinal bleeding",
+    "subtopic": "Melena",
+    "question": "Which of the following is NOT correct about gastrointestinal haemorrhage?",
+    "options": [
+      "Melena is commonly associated with lower GI bleeding"
+    ],
+    "answer": null,
+    "explanation": "Only one option is visible in the extracted source. The item is retained unkeyed.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q22",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source options missing"
+  },
+  {
+    "id": "R2-053",
+    "topic": "Urology",
+    "subtopic": "Circumcision",
+    "question": "A 45-year-old Yoruba patient came for circumcision. The prepuce is intact. Which of the following is correct?",
+    "options": [
+      "He likely has (or is at risk of) priapism",
+      "He likely has coagulopathy",
+      "Use Plastibell method",
+      "Never do open surgical circumcision",
+      "Do not attend to him because he is presenting late"
+    ],
+    "answer": null,
+    "explanation": "This is the third repeated circumcision recollection in the paper (Q37). The original options are preserved; no reliable key is supplied.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q37",
+    "status": "Verbatim · Immediate seniors R2 2025",
+    "keyStatus": "Unkeyed — source ambiguous"
   }
 ]

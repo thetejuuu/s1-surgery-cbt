@@ -31,3 +31,8 @@ These source items need the original question paper, a clearer image, or lecture
 - Ambiguous, incomplete or disputed source items are excluded from scoring rather than assigned a guessed answer.
 - A few questions are explicitly clarified where the source terminology was imprecise (for example, “phosphate stones” is clarified as struvite only where the urease-organism association is intended).
 - The app shows the source and source question number beside each playable question.
+
+
+## Immediate seniors' R2 2025 extraction (v6)
+
+The 81 MCQ entries (54 main-paper slots and 27 transcript questions) are now individually structured in `questions.json` with source references. Six associated theory questions are in `theory.json`. Of the 81 MCQs, 38 have independently added practice keys and 43 remain unkeyed due to incomplete/ambiguous source text. See `S1-R2-2025-extraction-notes.md`.
