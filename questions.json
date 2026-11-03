@@ -413,13 +413,12 @@
     "subtopic": "SIRS",
     "question": "Which of the following is NOT a standard parameter used in the systemic inflammatory response syndrome (SIRS) criteria?",
     "options": [
-      "Temperature",
       "Heart rate",
       "Respiratory rate",
       "White blood cell count",
       "Partial pressure of oxygen"
     ],
-    "answer": 4,
+    "answer": 3,
     "explanation": "Traditional SIRS criteria use temperature, heart rate, respiratory rate/PaCO₂, and white blood cell count. PaO₂ is not one of the standard four criteria.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q5",
@@ -431,13 +430,12 @@
     "subtopic": "Acute appendicitis",
     "question": "Which finding is LEAST typical of uncomplicated acute appendicitis?",
     "options": [
-      "Right iliac fossa tenderness",
       "Rebound tenderness",
       "Low-grade fever",
       "Jaundice",
       "Anorexia"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "Jaundice is not a usual feature of uncomplicated appendicitis; if present, consider alternative diagnoses or complications.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q6",
@@ -449,13 +447,12 @@
     "subtopic": "Thyroid examination",
     "question": "During examination of a patient with a thyroid swelling, which manoeuvre is most useful for assessing whether the swelling moves with swallowing?",
     "options": [
-      "Ask the patient to protrude the tongue",
       "Ask the patient to swallow",
       "Ask the patient to clench the jaw",
       "Ask the patient to shrug the shoulders",
       "Ask the patient to hold the breath"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "A thyroid swelling typically moves upwards with deglutition because of its attachment to the larynx and trachea through the pretracheal fascia.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q16",
@@ -467,13 +464,12 @@
     "subtopic": "Thyroid examination",
     "question": "A midline neck swelling that characteristically moves upwards when the patient protrudes the tongue is most suggestive of:",
     "options": [
-      "Simple goitre",
       "Thyroglossal duct cyst",
       "Cervical lymphadenopathy",
       "Carotid body tumour",
       "Branchial cyst"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "A thyroglossal duct cyst is attached to the hyoid region and typically moves with tongue protrusion and swallowing.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q16; related neck examination concept",
@@ -485,13 +481,12 @@
     "subtopic": "Renal trauma",
     "question": "Which of the following is LEAST characteristic of renal injury after blunt trauma?",
     "options": [
-      "Haematuria",
       "Flank pain",
       "Flank bruising",
       "Urinary frequency",
       "Flank mass"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "Haematuria and flank pain/bruising are recognised features. Frequency is not a characteristic presenting feature of renal trauma.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q9",
@@ -504,7 +499,6 @@
     "question": "Undescended testis is commonly associated with which congenital condition?",
     "options": [
       "Congenital inguinal hernia",
-      "Hypertrophic pyloric stenosis",
       "Hirschsprung disease",
       "Cleft palate",
       "Meconium ileus"
@@ -521,13 +515,12 @@
     "subtopic": "Catheterisation",
     "question": "During male urethral catheterisation, after lubricating the urethra, the penis is generally held:",
     "options": [
-      "Downwards at 45 degrees",
       "Upwards to straighten the anterior urethra",
       "Horizontally against the thigh",
       "In the midline with no traction",
       "Rotated laterally"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The penis is gently elevated to approximately 60–90 degrees to reduce the curve of the anterior urethra during insertion. Never force a catheter against resistance.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q25/Q39; adapted to a complete, clinically standard item",
@@ -539,13 +532,12 @@
     "subtopic": "Sebaceous cyst",
     "question": "Which clinical feature is particularly characteristic of an epidermoid (sebaceous) cyst?",
     "options": [
-      "Transillumination",
       "A central punctum",
       "A palpable thrill",
       "A bruit",
       "Reducibility"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "A central punctum represents the blocked follicular opening and is a classic feature of an epidermoid cyst.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q36",
@@ -557,13 +549,12 @@
     "subtopic": "Hernia in children",
     "question": "A 4-year-old child has a groin swelling that appears on standing or crying and disappears when lying down. The usual operation for an uncomplicated paediatric inguinal hernia is:",
     "options": [
-      "Herniorrhaphy with mesh",
       "Hernioplasty with mesh",
       "Herniotomy",
       "Femoral herniorrhaphy",
       "Bowel resection"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "In children, the usual procedure is herniotomy: high ligation of the patent processus vaginalis. Routine mesh repair is not used for an uncomplicated paediatric indirect inguinal hernia.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q31",
@@ -576,7 +567,6 @@
     "question": "Which of the following is a recognised complication of open prostatectomy?",
     "options": [
       "Epididymo-orchitis",
-      "Acute appendicitis",
       "Cleft palate",
       "Hydrocephalus",
       "Pyloric stenosis"
@@ -593,13 +583,12 @@
     "subtopic": "Biliary obstruction",
     "question": "Which biochemical pattern is most consistent with extrahepatic obstructive jaundice?",
     "options": [
-      "Predominantly unconjugated hyperbilirubinaemia with low ALP",
       "Raised conjugated bilirubin with raised alkaline phosphatase and GGT",
       "Isolated low serum amylase",
       "Raised troponin with normal liver enzymes",
       "Low bilirubin with raised creatinine only"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Cholestasis typically produces conjugated hyperbilirubinaemia and disproportionate elevation of alkaline phosphatase and GGT.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q19",
@@ -611,13 +600,12 @@
     "subtopic": "Bladder injury",
     "question": "Which of the following is NOT a recognised type of traumatic bladder injury?",
     "options": [
-      "Bladder contusion",
       "Intraperitoneal rupture",
       "Extraperitoneal rupture",
       "Bladder diverticulum",
       "Bladder rupture"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "Bladder contusion and intraperitoneal/extraperitoneal rupture are recognised injury patterns. A diverticulum is an outpouching of the bladder wall, not a traumatic injury type.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q23",
@@ -629,13 +617,12 @@
     "subtopic": "Urethral injury",
     "question": "The preferred initial urinary diversion in a patient with suspected complete traumatic urethral rupture is generally:",
     "options": [
-      "Blind urethral catheterisation",
       "Suprapubic urinary diversion",
       "Immediate transurethral prostatectomy",
       "Repeated forceful catheter attempts",
       "Oral antibiotics alone"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Avoid blind urethral catheterisation when urethral disruption is suspected. Retrograde urethrography and suprapubic diversion are commonly used depending on the clinical situation.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q29",
@@ -647,13 +634,12 @@
     "subtopic": "Colorectal cancer",
     "question": "Which investigation provides direct visualisation of the colon and allows biopsy of a suspected colorectal cancer?",
     "options": [
-      "Abdominal ultrasound",
       "Plain abdominal radiograph",
       "Colonoscopy with biopsy",
       "Barium swallow",
       "Intravenous urography"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Colonoscopy allows visualisation of the colonic mucosa and tissue diagnosis by biopsy.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q34",
@@ -665,13 +651,12 @@
     "subtopic": "Benign colonic tumours",
     "question": "Which of the following is LEAST likely to be a complication of a benign colonic tumour?",
     "options": [
-      "Intestinal bleeding",
       "Intestinal obstruction",
       "Intussusception",
       "Direct invasion into adjacent organs",
       "Obstruction due to a large lesion"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "Benign lesions can bleed, obstruct or act as a lead point for intussusception. Direct invasion into adjacent structures suggests malignant behaviour.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q10",
@@ -683,13 +668,12 @@
     "subtopic": "Femoral hernia",
     "question": "A femoral hernia passes through the femoral ring and lies:",
     "options": [
-      "Lateral to the femoral artery",
       "Medial to the femoral vein",
       "Posterior to the sciatic nerve",
       "Within the inguinal canal",
       "Above the inguinal ligament"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The femoral canal is medial to the femoral vein. The femoral ring is bounded by the inguinal ligament anteriorly, pectineal ligament posteriorly, lacunar ligament medially and femoral vein laterally.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q25; anatomy clarification",
@@ -701,13 +685,12 @@
     "subtopic": "Common bile duct anatomy",
     "question": "The common hepatic duct is formed by the union of the:",
     "options": [
-      "Cystic duct and common bile duct",
       "Right and left hepatic ducts",
       "Right hepatic duct and cystic duct",
       "Pancreatic duct and cystic duct",
       "Left hepatic duct and pancreatic duct"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The right and left hepatic ducts unite at the porta hepatis to form the common hepatic duct. The cystic duct then joins it to form the common bile duct.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q7; original options were fragmentary",
@@ -720,7 +703,6 @@
     "question": "The Rule of Nines used for estimating total body surface area burned in adults is attributed to:",
     "options": [
       "Wallace",
-      "Lund and Browder",
       "Parkland",
       "Brooke",
       "Gustilo"
@@ -737,13 +719,12 @@
     "subtopic": "Paediatric burns",
     "question": "Which chart is generally preferred for estimating burn surface area in children?",
     "options": [
-      "Wallace Rule of Nines only",
       "Lund–Browder chart",
       "Glasgow Coma Scale",
       "APGAR score",
       "Ranson score"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The Lund–Browder chart accounts for age-related differences in body surface area proportions and is preferred for children.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q50",
@@ -755,13 +736,12 @@
     "subtopic": "HIV exposure",
     "question": "The average risk of HIV transmission after a percutaneous needlestick injury involving HIV-infected blood is approximately:",
     "options": [
-      "0.03%",
       "0.3%",
       "3%",
       "10%",
       "30%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The commonly cited average risk after percutaneous exposure is about 0.3%; risk varies with depth, visible blood and source viral load. Manage as an occupational exposure urgently.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q20",
@@ -774,7 +754,6 @@
     "question": "A common organism responsible for infection following a clean surgical procedure is:",
     "options": [
       "Staphylococcus aureus",
-      "Vibrio cholerae",
       "Salmonella Typhi",
       "Clostridium tetani",
       "Entamoeba histolytica"
@@ -792,7 +771,6 @@
     "question": "Which statement about the Shouldice operation for inguinal hernia is correct?",
     "options": [
       "It is a multilayer tissue repair of the posterior inguinal wall",
-      "It is a laparoscopic mesh repair",
       "It repairs the femoral canal only",
       "It involves removal of the testis",
       "It is a paediatric herniotomy"
@@ -809,13 +787,12 @@
     "subtopic": "Hernia repair",
     "question": "The McVay repair is particularly associated with suturing the conjoint tendon to the:",
     "options": [
-      "Inguinal ligament",
       "Pectineal (Cooper's) ligament",
       "Lacunar ligament alone",
       "Femoral artery sheath",
       "External oblique aponeurosis"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The McVay repair approximates the transversus abdominis aponeurotic arch/conjoint tendon to Cooper's (pectineal) ligament and is useful in femoral hernia repair.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Q4; wording corrected from corrupted source",
@@ -828,7 +805,6 @@
     "question": "In a resource-limited setting, which conventional plain radiographic views are classically used in evaluating suspected small bowel obstruction?",
     "options": [
       "Supine and erect abdominal radiographs",
-      "Lateral skull radiographs",
       "PA chest alone",
       "Pelvic inlet and outlet views",
       "Barium swallow"
@@ -845,13 +821,12 @@
     "subtopic": "Small bowel obstruction",
     "question": "Which imaging modality is generally most accurate for identifying the cause and complications of small bowel obstruction in a stable adult when available?",
     "options": [
-      "Plain abdominal radiograph",
       "CT abdomen and pelvis",
       "Barium swallow",
       "Cystoscopy",
       "Mammography"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "CT can identify the transition point, cause, closed-loop obstruction and signs of ischaemia. This supplements—not replaces—the source compilation's plain-film question.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Supplementary clarification to Q2/Q27",
@@ -864,7 +839,6 @@
     "question": "Which of the following is a recognised complication of prolonged obstructive jaundice?",
     "options": [
       "Ascending cholangitis",
-      "Acute appendicitis",
       "Testicular torsion",
       "Cerebral aneurysm",
       "Achalasia"
@@ -881,13 +855,12 @@
     "subtopic": "Traumatic brain injury",
     "question": "A Glasgow Coma Scale score of 8 or less is conventionally classified as:",
     "options": [
-      "Mild traumatic brain injury",
       "Moderate traumatic brain injury",
       "Severe traumatic brain injury",
       "Normal consciousness",
       "Concussion without impairment"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "The commonly used GCS severity bands are 13–15 mild, 9–12 moderate and 3–8 severe. Clinical context and airway assessment remain essential.",
     "source": "S1 compiled PQ 2021-1.doc",
     "sourceQuestion": "Source prompt: TBI grading",
@@ -899,13 +872,12 @@
     "subtopic": "ATLS haemorrhage",
     "question": "In the ATLS classification, Class IV haemorrhage represents:",
     "options": [
-      "Less than 15% blood volume loss",
       "15–30% blood volume loss",
       "30–40% blood volume loss",
       "More than 40% blood volume loss",
       "No measurable blood loss"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "Class IV haemorrhage involves more than 40% estimated blood volume loss and is associated with profound circulatory compromise.",
     "source": "S1 compiled PQ 2021-1.doc",
     "sourceQuestion": "Source prompt: ATLS staging of haemorrhage",
@@ -918,7 +890,6 @@
     "question": "Struvite (magnesium ammonium phosphate) stones are classically associated with:",
     "options": [
       "Urease-producing urinary tract organisms",
-      "Persistently acidic urine",
       "Hyperuricaemia alone",
       "Cystinuria",
       "Hyperoxaluria alone"
@@ -936,7 +907,6 @@
     "question": "Which of the following is a recognised cause of bladder outlet obstruction in an adult man?",
     "options": [
       "Benign prostatic enlargement",
-      "Cystic hygroma",
       "Hydrocele",
       "Anal fissure",
       "Varicocele"
@@ -953,13 +923,12 @@
     "subtopic": "Omphalocele and gastroschisis",
     "question": "A newborn has a midline abdominal wall defect with bowel loops covered by a translucent sac. The most likely diagnosis is:",
     "options": [
-      "Gastroschisis",
       "Omphalocele (exomphalos)",
       "Umbilical granuloma",
       "Patent urachus",
       "Inguinal hernia"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Omphalocele is a midline defect with herniated viscera covered by a sac. Gastroschisis is usually paraumbilical and has no covering membrane.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q48",
@@ -971,13 +940,12 @@
     "subtopic": "Haemangioma",
     "question": "Which statement about an uncomplicated infantile haemangioma is generally correct?",
     "options": [
-      "It is always premalignant",
       "Many undergo spontaneous involution over time",
       "It is a bacterial abscess",
       "It is always associated with a patent urachus",
       "It requires immediate wide excision in every case"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Many infantile haemangiomas proliferate early and then involute spontaneously. Management depends on site, size, complications and risk to function; they are not considered premalignant lesions.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q43; adapted, false source claim excluded",
@@ -990,7 +958,6 @@
     "question": "A newborn with an imperforate anus may require which procedure as an initial staged management in selected cases?",
     "options": [
       "Temporary diverting colostomy",
-      "Immediate appendicectomy",
       "Total gastrectomy",
       "Splenectomy",
       "Nephrectomy"
@@ -1007,13 +974,12 @@
     "subtopic": "Thyroid surgery",
     "question": "A patient develops rapidly expanding neck swelling and stridor shortly after thyroidectomy. What is the immediate priority?",
     "options": [
-      "Wait for a CT scan",
       "Urgently open the wound to evacuate the haematoma while calling for help",
       "Give oral antibiotics and observe",
       "Send the patient for outpatient ultrasound",
       "Remove the drain only"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "A post-thyroidectomy haematoma can rapidly obstruct the airway. Immediate wound opening/haematoma evacuation at the bedside may be lifesaving while airway and return-to-theatre management are organised.",
     "source": "S1 COMPILATION (FIRST ROTATION).docx; S1 compiled PQ 2021-1.doc",
     "sourceQuestion": "Q28/Q32; source scenario repeated",
@@ -1026,7 +992,6 @@
     "question": "Which of the following is a major category of shock?",
     "options": [
       "Hypovolaemic",
-      "Metabolic",
       "Haematological",
       "Dermatological",
       "Neuromuscular"
@@ -1044,7 +1009,6 @@
     "question": "Which hormone is expected to increase as part of the endocrine response to major surgical stress?",
     "options": [
       "Cortisol",
-      "Insulin only",
       "Melatonin",
       "Calcitonin",
       "Prolactin only"
@@ -1062,7 +1026,6 @@
     "question": "Which of the following is a common estimate of normal adult urine output used in perioperative monitoring?",
     "options": [
       "0.5 mL/kg/hour or more",
-      "5 mL/kg/hour",
       "10 mL/kg/hour",
       "20 mL/kg/hour",
       "No urine output for 12 hours"
@@ -1080,7 +1043,6 @@
     "question": "Hypospadias results from incomplete development or fusion of which embryological structure(s)?",
     "options": [
       "Urethral (urogenital) folds",
-      "Müllerian ducts",
       "Urachus",
       "Vitelline duct",
       "Mesonephric tubules"
@@ -1097,13 +1059,12 @@
     "subtopic": "Antibiotic prophylaxis",
     "question": "For most operations requiring surgical antibiotic prophylaxis, the initial dose should be administered:",
     "options": [
-      "After wound closure",
       "Within 60 minutes before incision (with timing adjusted for drug)",
       "Three days after surgery",
       "Only if fever develops",
       "At the first outpatient review"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Prophylactic antibiotics should achieve adequate tissue concentrations at incision, commonly within 60 minutes beforehand; agents requiring prolonged infusion may need earlier administration. Redosing depends on duration and blood loss.",
     "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
     "sourceQuestion": "Essay Q1; supplementary MCQ derived from topic",
@@ -1116,7 +1077,6 @@
     "question": "Which patient factor is associated with delayed wound healing?",
     "options": [
       "Poorly controlled diabetes mellitus",
-      "Adequate nutrition",
       "Good tissue perfusion",
       "Absence of infection",
       "Normal oxygenation"
@@ -1134,7 +1094,6 @@
     "question": "Which organism is strongly associated with peptic ulcer disease and gastric adenocarcinoma?",
     "options": [
       "Helicobacter pylori",
-      "Pseudomonas aeruginosa",
       "Staphylococcus epidermidis",
       "Clostridium tetani",
       "Neisseria meningitidis"
@@ -1152,7 +1111,6 @@
     "question": "Persistent gastric outlet obstruction from chronic duodenal ulcer disease may cause:",
     "options": [
       "Hypochloraemic metabolic alkalosis",
-      "Hyperchloraemic metabolic acidosis",
       "Respiratory alkalosis only",
       "Hyperkalaemic metabolic acidosis in every case",
       "No electrolyte disturbance"
@@ -1170,7 +1128,6 @@
     "question": "A common functional problem that may necessitate cleft lip/palate repair in addition to cosmetic concerns is:",
     "options": [
       "Feeding difficulty",
-      "Haematuria",
       "Urinary retention",
       "Bowel obstruction",
       "Jaundice"
@@ -1179,6 +1136,992 @@
     "explanation": "Cleft lip and especially associated cleft palate can impair feeding; speech, hearing, dentition and psychosocial factors also influence care.",
     "source": "S1 R2 2025.pdf",
     "sourceQuestion": "Q10/Q11",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-001",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Fluid balance",
+    "question": "Which daily maintenance fluid volume is used as a conventional adult estimate in the supplied compilation?",
+    "options": [
+      "1 litre",
+      "2 litres",
+      "3 litres",
+      "5 litres"
+    ],
+    "answer": 2,
+    "explanation": "The compilation gives 3,000 mL as a daily maintenance estimate. Individual requirements must be adjusted to the patient and clinical context.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 35 / fluid balance transcript",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-002",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Potassium replacement",
+    "question": "A postoperative patient has a serum potassium of 2.5 mmol/L. Which electrolyte abnormality is present?",
+    "options": [
+      "Hyperkalaemia",
+      "Hypokalaemia",
+      "Hypernatraemia",
+      "Metabolic alkalosis"
+    ],
+    "answer": 1,
+    "explanation": "A serum potassium of 2.5 mmol/L is below the usual reference range and indicates hypokalaemia.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "Essay Q3",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-003",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Fluid balance",
+    "question": "According to the supplied question compilation, what is the approximate daily insensible water loss in an adult?",
+    "options": [
+      "200 mL",
+      "500 mL",
+      "1,700 mL",
+      "3,000 mL"
+    ],
+    "answer": 2,
+    "explanation": "The source compilation lists approximately 1,700 mL/day as insensible water loss. This is a source-based exam figure, not a fixed value for every patient.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 35 / R2 transcript fluid balance Q3",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-004",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Fluid balance",
+    "question": "According to the supplied compilation, by approximately how much does fluid loss increase per day for each 1°C rise in body temperature?",
+    "options": [
+      "50 mL",
+      "100 mL",
+      "200 mL",
+      "500 mL"
+    ],
+    "answer": 2,
+    "explanation": "The R2 transcript gives an approximate additional loss of 200 mL/day per 1°C rise in temperature.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "R2 transcript fluid balance Q3",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-005",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Fluid balance",
+    "question": "Which of the following is the conventional minimum adult urine output target used in perioperative monitoring?",
+    "options": [
+      "0.1 mL/kg/hour",
+      "0.5 mL/kg/hour",
+      "2 mL/kg/hour",
+      "5 mL/kg/hour"
+    ],
+    "answer": 1,
+    "explanation": "A urine output of at least about 0.5 mL/kg/hour is a commonly used adult adequacy target; interpret it alongside the clinical picture.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49 / urine output",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-006",
+    "topic": "Fluid and electrolytes",
+    "subtopic": "Fluid balance",
+    "question": "A patient has a urine output of 20 mL/hour. Which statement best interprets this value in an average-sized adult?",
+    "options": [
+      "It is automatically normal",
+      "It may represent low urine output and requires assessment",
+      "It proves diabetes insipidus",
+      "It confirms renal recovery"
+    ],
+    "answer": 1,
+    "explanation": "Twenty millilitres per hour is below the commonly used adult target of approximately 0.5 mL/kg/hour for many adults.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49 / urine output",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-007",
+    "topic": "Intestinal obstruction",
+    "subtopic": "Clinical features",
+    "question": "The abdominal pain of uncomplicated mechanical intestinal obstruction is classically described as:",
+    "options": [
+      "Waxes and wanes",
+      "Constant burning pain",
+      "Pleuritic pain",
+      "Electric-shock pain"
+    ],
+    "answer": 0,
+    "explanation": "Colicky pain waxes and wanes as peristaltic contractions act against the obstruction.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 1 and 9",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-008",
+    "topic": "Intestinal obstruction",
+    "subtopic": "Investigations",
+    "question": "Which initial plain radiographic views are classically used when investigating suspected small-bowel obstruction?",
+    "options": [
+      "Supine and erect abdominal X-rays",
+      "Lateral skull X-rays",
+      "AP and lateral chest X-rays",
+      "Oblique pelvic X-rays"
+    ],
+    "answer": 0,
+    "explanation": "The supplied compilation identifies erect and supine abdominal radiographs as an important diagnostic radiographic technique. CT is also widely used in contemporary practice where available.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 2 and 27",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-009",
+    "topic": "Intestinal obstruction",
+    "subtopic": "Complications",
+    "question": "Which of the following is a recognised complication of a benign large-bowel tumour?",
+    "options": [
+      "Intestinal obstruction",
+      "Distant metastasis as an inevitable event",
+      "Invasion in every case",
+      "Primary liver failure"
+    ],
+    "answer": 0,
+    "explanation": "A benign colonic tumour can cause obstruction; bleeding and intussusception are also described complications.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 10",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-010",
+    "topic": "Hernias",
+    "subtopic": "Female groin hernias",
+    "question": "Which groin hernia is relatively more common in women than in men?",
+    "options": [
+      "Femoral hernia",
+      "Direct inguinal hernia",
+      "Indirect inguinal hernia",
+      "Lumbar hernia"
+    ],
+    "answer": 0,
+    "explanation": "Femoral hernias occur relatively more often in women, although inguinal hernias remain common overall.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 25",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-011",
+    "topic": "Hernias",
+    "subtopic": "Surgical repair",
+    "question": "Which repair is classically associated with a tension-free mesh repair of the inguinal floor?",
+    "options": [
+      "Lichtenstein repair",
+      "Bassini repair",
+      "Shouldice repair",
+      "McVay repair"
+    ],
+    "answer": 0,
+    "explanation": "Lichtenstein repair is the standard open tension-free mesh repair. Bassini and Shouldice are tissue repairs; McVay approximates the conjoint tendon to Cooper’s ligament.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-012",
+    "topic": "Hernias",
+    "subtopic": "Surgical repair",
+    "question": "Which operation is classically the repair of choice for a femoral hernia in the supplied compilation?",
+    "options": [
+      "McVay repair",
+      "Bassini repair",
+      "Shouldice repair",
+      "Lichtenstein repair"
+    ],
+    "answer": 0,
+    "explanation": "The source compilation specifically identifies McVay repair as the procedure of choice for femoral hernia.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-013",
+    "topic": "Hernias",
+    "subtopic": "Surgical repair",
+    "question": "Shouldice repair of an inguinal hernia involves:",
+    "options": [
+      "Multilayer imbricated tissue repair of the inguinal floor",
+      "Placement of a prosthetic mesh only",
+      "Excision of the spermatic cord",
+      "Closure of the femoral canal alone"
+    ],
+    "answer": 0,
+    "explanation": "Shouldice is a multilayer tissue repair involving imbrication of the inguinal floor.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-014",
+    "topic": "Hernias",
+    "subtopic": "Clinical presentation",
+    "question": "A groin swelling that appears on standing or coughing and disappears on lying down is most suggestive of:",
+    "options": [
+      "A reducible groin hernia",
+      "A fixed lymph node",
+      "A hydrocele of the cord in every case",
+      "A femoral artery aneurysm"
+    ],
+    "answer": 0,
+    "explanation": "A reducible hernia commonly becomes more prominent with increased intra-abdominal pressure and reduces when the patient lies down.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-015",
+    "topic": "Urology",
+    "subtopic": "Urethral injury",
+    "question": "In a patient with suspected acute urethral rupture, which urinary drainage route is generally preferred when urethral catheterisation is unsafe?",
+    "options": [
+      "Suprapubic urinary diversion",
+      "Blind urethral catheterisation",
+      "Immediate transurethral prostatectomy",
+      "Oral hydration alone"
+    ],
+    "answer": 0,
+    "explanation": "When urethral disruption is suspected, avoid blind urethral catheterisation; suprapubic diversion may be required depending on the injury and expertise.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 29",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-016",
+    "topic": "Urology",
+    "subtopic": "Bladder injury",
+    "question": "Which of the following is NOT a recognised category of traumatic bladder injury?",
+    "options": [
+      "Bladder diverticulum",
+      "Intraperitoneal rupture",
+      "Extraperitoneal rupture",
+      "Bladder contusion"
+    ],
+    "answer": 0,
+    "explanation": "The source options include contusion and intraperitoneal and extraperitoneal injuries. A diverticulum is an outpouching, not a standard traumatic injury category.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 23",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-017",
+    "topic": "Urology",
+    "subtopic": "Undescended testis",
+    "question": "Undescended testis is associated with which congenital condition?",
+    "options": [
+      "Congenital inguinal hernia",
+      "Cleft palate in every case",
+      "Hypertrophic pyloric stenosis",
+      "Meconium ileus"
+    ],
+    "answer": 0,
+    "explanation": "Undescended testis is commonly associated with a patent processus vaginalis and congenital inguinal hernia.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q24 / Q33",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-018",
+    "topic": "Urology",
+    "subtopic": "Prostatectomy",
+    "question": "Which of the following is a recognised approach for open prostatectomy?",
+    "options": [
+      "Retropubic",
+      "Transnasal",
+      "Transcranial",
+      "Transpleural"
+    ],
+    "answer": 0,
+    "explanation": "Retropubic is a recognised approach to open prostatectomy. Other established open approaches include transvesical and perineal.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q53",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-019",
+    "topic": "Urology",
+    "subtopic": "Urinary symptoms",
+    "question": "The term nocturia refers to:",
+    "options": [
+      "Waking from sleep to pass urine",
+      "Passing large volumes of urine throughout the day",
+      "Painful urination",
+      "Inability to initiate urination"
+    ],
+    "answer": 0,
+    "explanation": "Nocturia is waking from the main sleep period to void. The R2 source uses waking more than once as an example in its option.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-020",
+    "topic": "Urology",
+    "subtopic": "Urinary symptoms",
+    "question": "Polyuria refers to:",
+    "options": [
+      "An increased total volume of urine produced",
+      "Increased frequency with normal total volume only",
+      "Pain during micturition",
+      "Blood in the urine"
+    ],
+    "answer": 0,
+    "explanation": "Polyuria is increased urine volume, not simply increased frequency of voiding. The source compilation’s frequency-based wording is imprecise.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q49",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-021",
+    "topic": "Breast surgery",
+    "subtopic": "Breast cancer risk",
+    "question": "Which reproductive history is a recognised risk factor for breast cancer?",
+    "options": [
+      "First full-term pregnancy at an older age",
+      "Early first full-term pregnancy",
+      "Longer duration of breastfeeding",
+      "Earlier menarche never affects risk"
+    ],
+    "answer": 0,
+    "explanation": "Older age at first full-term pregnancy is associated with increased breast cancer risk compared with earlier first childbirth.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 8 / risk factors",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-022",
+    "topic": "Breast surgery",
+    "subtopic": "Breast examination",
+    "question": "Which of the following is a component of triple assessment of a breast lump?",
+    "options": [
+      "Clinical assessment, imaging and tissue diagnosis",
+      "CT, MRI and PET in every patient",
+      "Mammography alone",
+      "Ultrasound alone"
+    ],
+    "answer": 0,
+    "explanation": "Triple assessment combines clinical examination, appropriate breast imaging and pathological assessment, usually core biopsy or cytology as appropriate.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q27",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-023",
+    "topic": "Breast surgery",
+    "subtopic": "Breast examination",
+    "question": "A 59-year-old woman has breast asymmetry. Which manoeuvre is useful during inspection of the breasts?",
+    "options": [
+      "Ask her to raise both arms",
+      "Ask her to close her eyes",
+      "Ask her to flex both knees",
+      "Ask her to hold her breath"
+    ],
+    "answer": 0,
+    "explanation": "Raising both arms can accentuate asymmetry, skin tethering or abnormal movement during breast inspection.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "R2 transcript Q19",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-024",
+    "topic": "Breast surgery",
+    "subtopic": "Breast pathology",
+    "question": "Which of the following is a common benign breast tumour in young women?",
+    "options": [
+      "Fibroadenoma",
+      "Invasive ductal carcinoma",
+      "Phyllodes sarcoma in every case",
+      "Paget disease"
+    ],
+    "answer": 0,
+    "explanation": "Fibroadenoma is a common benign breast tumour, particularly in younger women.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q34",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-025",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Obstructive jaundice",
+    "question": "Which stool colour is classically associated with complete extrahepatic biliary obstruction?",
+    "options": [
+      "Pale or clay-coloured stool",
+      "Black tarry stool",
+      "Bright red stool",
+      "Green stool"
+    ],
+    "answer": 0,
+    "explanation": "Reduced delivery of bile pigments to the intestine produces pale or clay-coloured stools.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Obstructive jaundice",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-026",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Obstructive jaundice",
+    "question": "Which urine change is classically associated with conjugated hyperbilirubinaemia in obstructive jaundice?",
+    "options": [
+      "Dark urine",
+      "Colourless urine in every case",
+      "Milky urine",
+      "Blue-green urine"
+    ],
+    "answer": 0,
+    "explanation": "Conjugated bilirubin is water-soluble and may be excreted in urine, producing dark urine.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Obstructive jaundice",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-027",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Cholecystitis",
+    "question": "Which imaging investigation is generally the first-line investigation for suspected acute cholecystitis?",
+    "options": [
+      "Abdominal ultrasonography",
+      "Plain skull radiograph",
+      "CT brain",
+      "Barium swallow"
+    ],
+    "answer": 0,
+    "explanation": "Ultrasound is the usual first-line imaging test for suspected gallstones and acute cholecystitis.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "Best investigation for cholecystitis",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-028",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Colorectal cancer",
+    "question": "Which investigation allows direct visualisation of the colon and biopsy of a suspicious lesion?",
+    "options": [
+      "Colonoscopy",
+      "Abdominal plain radiograph",
+      "Intravenous urography",
+      "Chest radiograph"
+    ],
+    "answer": 0,
+    "explanation": "Colonoscopy permits direct examination of the colonic mucosa and biopsy of suspicious lesions.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 34",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-029",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Colorectal cancer",
+    "question": "Which histological type accounts for the great majority of colorectal malignancies?",
+    "options": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Gastrointestinal stromal tumour",
+      "Lymphoma"
+    ],
+    "answer": 0,
+    "explanation": "Most colorectal cancers are adenocarcinomas arising from glandular epithelium.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 24",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-030",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Colorectal cancer",
+    "question": "Which condition is a recognised risk factor for colorectal cancer?",
+    "options": [
+      "Inflammatory bowel disease",
+      "Appendicectomy",
+      "Hydrocele",
+      "Cleft lip"
+    ],
+    "answer": 0,
+    "explanation": "Long-standing inflammatory bowel disease, particularly ulcerative colitis and Crohn colitis, increases colorectal cancer risk.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 8 / 35",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-031",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Peptic ulcer disease",
+    "question": "Which is the key disease-directed treatment in a patient with peptic ulcer disease associated with Helicobacter pylori?",
+    "options": [
+      "Eradication therapy for H. pylori",
+      "Antacid alone indefinitely",
+      "Routine gastrectomy",
+      "Avoiding all fluids"
+    ],
+    "answer": 0,
+    "explanation": "Eradication of H. pylori with an appropriate combination regimen treats the underlying infection and reduces recurrence.",
+    "source": "S1 compiled PQ 2021-1.doc",
+    "sourceQuestion": "First target in duodenal ulcer treatment",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-032",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Peptic ulcer disease",
+    "question": "Gastric outlet obstruction from chronic duodenal ulcer may produce which acid-base disturbance?",
+    "options": [
+      "Hypochloraemic metabolic alkalosis",
+      "High-anion-gap metabolic acidosis",
+      "Respiratory alkalosis",
+      "Respiratory acidosis"
+    ],
+    "answer": 0,
+    "explanation": "Repeated vomiting of gastric hydrochloric acid can cause hypochloraemic, hypokalaemic metabolic alkalosis.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-033",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Upper GI bleeding",
+    "question": "Upper gastrointestinal bleeding is commonly classified into which two broad groups?",
+    "options": [
+      "Variceal and non-variceal",
+      "Arterial and venous only",
+      "Primary and reactionary",
+      "Acute and chronic only"
+    ],
+    "answer": 0,
+    "explanation": "The standard broad classification is variceal versus non-variceal bleeding.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q4",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-034",
+    "topic": "Gastrointestinal surgery",
+    "subtopic": "Pancreatic disease",
+    "question": "Which symptom is the most common presentation of chronic pancreatitis in the supplied compilation?",
+    "options": [
+      "Abdominal pain",
+      "Painless haematuria",
+      "Haemoptysis",
+      "Acute limb paralysis"
+    ],
+    "answer": 0,
+    "explanation": "The source compilation identifies pain as the most common presentation of chronic pancreatitis.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q57 / Q59",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-035",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hirschsprung disease",
+    "question": "A child has delayed passage of meconium, chronic constipation and abdominal distension. Which diagnosis should be considered?",
+    "options": [
+      "Hirschsprung disease",
+      "Acute appendicitis",
+      "Pyloric stenosis",
+      "Intussusception in every case"
+    ],
+    "answer": 0,
+    "explanation": "Hirschsprung disease causes functional distal intestinal obstruction due to absence of enteric ganglion cells. Delayed meconium passage is a classic presentation.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "R2 transcript Q24",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-036",
+    "topic": "Paediatric surgery",
+    "subtopic": "Hirschsprung disease",
+    "question": "What is the gold-standard diagnostic test for Hirschsprung disease?",
+    "options": [
+      "Rectal biopsy",
+      "Plain abdominal X-ray",
+      "Urine microscopy",
+      "Barium meal alone"
+    ],
+    "answer": 0,
+    "explanation": "Rectal suction or full-thickness biopsy demonstrates absence of ganglion cells and supports the diagnosis.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "R2 transcript Q24",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-037",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cleft lip",
+    "question": "A common reason for presentation and repair of cleft lip is:",
+    "options": [
+      "Cosmetic and functional concerns",
+      "Renal failure",
+      "Portal hypertension",
+      "Acute bowel obstruction"
+    ],
+    "answer": 0,
+    "explanation": "Cleft lip repair addresses appearance and may form part of broader functional and psychosocial care.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q10 / Q11",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-038",
+    "topic": "Paediatric surgery",
+    "subtopic": "Cleft lip",
+    "question": "Feeding difficulty in an infant with cleft lip and/or palate is important because it may lead to:",
+    "options": [
+      "Poor nutritional intake",
+      "Acute renal obstruction",
+      "Testicular torsion",
+      "Biliary colic"
+    ],
+    "answer": 0,
+    "explanation": "Cleft defects, particularly cleft palate, can impair effective feeding and adequate nutritional intake.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q11",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-039",
+    "topic": "Paediatric surgery",
+    "subtopic": "Omphalocele and gastroschisis",
+    "question": "A newborn has bowel protruding through a midline abdominal wall defect and covered by a transparent membrane. What is the most likely diagnosis?",
+    "options": [
+      "Omphalocele",
+      "Gastroschisis",
+      "Inguinal hernia",
+      "Bladder exstrophy"
+    ],
+    "answer": 0,
+    "explanation": "An omphalocele is a midline defect with herniated abdominal contents covered by a sac. Gastroschisis is usually paraumbilical and lacks a covering membrane.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q48",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-040",
+    "topic": "Paediatric surgery",
+    "subtopic": "Undescended testis",
+    "question": "Which statement about undescended testis is correct?",
+    "options": [
+      "It is associated with congenital inguinal hernia",
+      "Diagnosis routinely requires testicular biopsy",
+      "It is caused by excessive scrotal rugae",
+      "It is always located in the mid-thigh"
+    ],
+    "answer": 0,
+    "explanation": "A patent processus vaginalis commonly coexists with cryptorchidism and predisposes to an associated congenital inguinal hernia.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q24 / Q33",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-041",
+    "topic": "Trauma",
+    "subtopic": "ATLS",
+    "question": "What does the letter C represent in the traditional ATLS primary survey?",
+    "options": [
+      "Circulation with haemorrhage control",
+      "Cervical spine imaging only",
+      "Consciousness",
+      "Catheterisation"
+    ],
+    "answer": 0,
+    "explanation": "C is circulation with haemorrhage control in the ABCDE primary survey.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 12",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-042",
+    "topic": "Trauma",
+    "subtopic": "Burns",
+    "question": "Which chart is particularly useful for estimating total body surface area burned in children?",
+    "options": [
+      "Lund and Browder chart",
+      "Glasgow Coma Scale",
+      "Ranson score",
+      "Dukes staging"
+    ],
+    "answer": 0,
+    "explanation": "The Lund and Browder chart adjusts body surface area proportions for age and is more accurate in children than the adult rule of nines.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q50",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-043",
+    "topic": "Trauma",
+    "subtopic": "Burns",
+    "question": "The adult rule of nines used in burn assessment is associated with which name in the supplied compilation?",
+    "options": [
+      "Wallace",
+      "Park",
+      "Dukes",
+      "Ranson"
+    ],
+    "answer": 0,
+    "explanation": "The rule of nines is commonly called Wallace’s rule of nines. In children, Lund–Browder is generally more accurate.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 26",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-044",
+    "topic": "Trauma",
+    "subtopic": "Shock",
+    "question": "Which of the following is one of the major recognised categories of shock?",
+    "options": [
+      "Cardiogenic",
+      "Cardionergic",
+      "Hepatogenic",
+      "Osteogenic"
+    ],
+    "answer": 0,
+    "explanation": "Major categories include hypovolaemic, cardiogenic, distributive (including septic, anaphylactic and neurogenic) and obstructive shock.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q30 / theory shock question",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-045",
+    "topic": "Trauma",
+    "subtopic": "Glasgow Coma Scale",
+    "question": "In the Glasgow Coma Scale, which score is assigned for eye opening to speech?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Eye opening scores are: none 1, to pain 2, to speech 3, spontaneous 4.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q29 / Q38",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-046",
+    "topic": "Trauma",
+    "subtopic": "Glasgow Coma Scale",
+    "question": "In the Glasgow Coma Scale, which score is assigned for incomprehensible sounds?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Verbal response scores are: none 1, incomprehensible sounds 2, inappropriate words 3, confused conversation 4, oriented 5.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q29 / Q38",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-047",
+    "topic": "Trauma",
+    "subtopic": "Glasgow Coma Scale",
+    "question": "In the Glasgow Coma Scale, a patient who obeys commands receives what motor score?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "The best motor response score for obeying commands is 6.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q29 / Q38",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-048",
+    "topic": "Surgical infection",
+    "subtopic": "SIRS",
+    "question": "Which of the following is NOT a traditional SIRS parameter?",
+    "options": [
+      "Partial pressure of oxygen",
+      "Body temperature",
+      "Heart rate",
+      "Respiratory rate"
+    ],
+    "answer": 0,
+    "explanation": "Traditional SIRS criteria include temperature, heart rate, respiratory rate or PaCO₂, and white blood cell count. PaO₂ is not one of the criteria.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q5",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-049",
+    "topic": "Surgical infection",
+    "subtopic": "Surgical site infection",
+    "question": "Which organism is a common cause of infection following a clean surgical operation?",
+    "options": [
+      "Staphylococcus aureus",
+      "Escherichia coli",
+      "Clostridium tetani",
+      "Salmonella Typhi"
+    ],
+    "answer": 0,
+    "explanation": "Skin flora, particularly Staphylococcus aureus, are common causes of infection after clean operations.",
+    "source": "S1_1st Rotation Question Compilation MBBS'25.pdf",
+    "sourceQuestion": "MCQ 6 and 14",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-050",
+    "topic": "Surgical infection",
+    "subtopic": "Antibiotic prophylaxis",
+    "question": "For most operations requiring surgical antibiotic prophylaxis, the dose should be timed so adequate tissue levels are present:",
+    "options": [
+      "At incision",
+      "Five days after surgery",
+      "Only after fever develops",
+      "At discharge"
+    ],
+    "answer": 0,
+    "explanation": "Prophylaxis is generally administered shortly before incision, with timing depending on the drug; it is not a substitute for good surgical technique.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-051",
+    "topic": "Surgical infection",
+    "subtopic": "Antibiotic prophylaxis",
+    "question": "Which factor influences the choice of surgical antibiotic prophylaxis?",
+    "options": [
+      "The site and type of operation",
+      "The patient’s favourite food",
+      "The colour of the theatre",
+      "The surgeon’s handedness"
+    ],
+    "answer": 0,
+    "explanation": "The operation site, likely organisms, procedure and patient factors influence prophylactic antibiotic choice.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q31",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-052",
+    "topic": "Surgical technique",
+    "subtopic": "Preoperative preparation",
+    "question": "When hair removal is necessary before an operation, the preferred timing is:",
+    "options": [
+      "As close to the time of surgery as possible",
+      "The night before surgery with a razor",
+      "One week before surgery",
+      "Immediately after wound closure"
+    ],
+    "answer": 0,
+    "explanation": "If hair removal is necessary, it should be performed as close to surgery as possible, preferably with clippers rather than a razor.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q2 / S1 compiled PQ 2021-1",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-053",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical instruments",
+    "question": "Which feature is characteristic of an artery forceps?",
+    "options": [
+      "Transverse serrations on the jaws",
+      "A sharp single cutting blade",
+      "A broad atraumatic bowel loop",
+      "A toothed bone-gripping jaw only"
+    ],
+    "answer": 0,
+    "explanation": "Artery forceps have serrated jaws designed to clamp blood vessels. The exact serration pattern varies by instrument.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q18 / R2 transcript Q13",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-054",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical instruments",
+    "question": "Which instrument is designed to grasp delicate tubular structures such as bowel with minimal crushing?",
+    "options": [
+      "Babcock forceps",
+      "Kocher forceps",
+      "Bone-holding forceps",
+      "Towel clip"
+    ],
+    "answer": 0,
+    "explanation": "Babcock forceps have fenestrated, relatively atraumatic jaws and are used to grasp delicate tubular structures.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q18",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-055",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical incisions",
+    "question": "Which incision is classically associated with appendicectomy?",
+    "options": [
+      "Lanz incision",
+      "Pfannenstiel incision",
+      "Kocher subcostal incision",
+      "Thoracotomy"
+    ],
+    "answer": 0,
+    "explanation": "The Lanz incision is a transverse incision in the right iliac fossa used for open appendicectomy. McBurney’s gridiron incision is another classic approach.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q8",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-056",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical incisions",
+    "question": "Which incision is classically used for open cholecystectomy?",
+    "options": [
+      "Kocher subcostal incision",
+      "Lanz incision",
+      "Pfannenstiel incision",
+      "Midline suprapubic incision"
+    ],
+    "answer": 0,
+    "explanation": "The right subcostal Kocher incision provides access to the gallbladder and biliary tree.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q8",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-057",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical incisions",
+    "question": "Which incision is commonly used for a caesarean section and some pelvic operations?",
+    "options": [
+      "Pfannenstiel incision",
+      "Lanz incision",
+      "Kocher incision",
+      "Thoracoabdominal incision"
+    ],
+    "answer": 0,
+    "explanation": "The Pfannenstiel incision is a curved transverse suprapubic incision commonly used for caesarean section and pelvic access.",
+    "source": "S1 R2 2025.pdf",
+    "sourceQuestion": "Q8",
+    "status": "Adapted"
+  },
+  {
+    "id": "S1-FB-058",
+    "topic": "Surgical technique",
+    "subtopic": "Surgical drains",
+    "question": "A Redivac drain is best described as:",
+    "options": [
+      "A closed suction drain",
+      "An open passive drain",
+      "A urinary catheter",
+      "A chest tube connected to underwater seal"
+    ],
+    "answer": 0,
+    "explanation": "Redivac is a closed suction drainage system that applies negative pressure to collect fluid.",
+    "source": "S1 COMPILATION (FIRST ROTATION).docx",
+    "sourceQuestion": "Q49",
     "status": "Adapted"
   }
 ]
